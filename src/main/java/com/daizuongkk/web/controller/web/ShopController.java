@@ -16,8 +16,9 @@ public class ShopController extends HttpServlet {
 
         HttpSession session = request.getSession(false);
 
-        if(session == null || session.getAttribute("user") == null){
-            response.sendRedirect("views/pages/login.jsp");
+        boolean hasAccount = session != null && (session.getAttribute("account") != null || session.getAttribute("user") != null);
+        if (!hasAccount) {
+            response.sendRedirect("login");
             return;
         }
         request.getRequestDispatcher("views/pages/store.jsp").forward(request, response);

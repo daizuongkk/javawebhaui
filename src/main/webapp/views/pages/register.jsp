@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>Electro - Đăng Nhập</title>
+    <title>Electro - Đăng Kí</title>
     <base href="${pageContext.request.contextPath}/">
 
     <!-- Google font -->
@@ -75,7 +75,8 @@
 <div class="section">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 ">
+
+            <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-6">
                         <img class="login-banner center-block" src="./assets/img/red-login-banner.jpg" alt="login-banner">
@@ -91,7 +92,8 @@
                                                     <path d="M16 2C8.3 2 2 8.3 2 16s6.3 14 14 14 14-6.3 14-14S23.7 2 16 2z"
                                                           fill="none"
                                                           stroke="currentColor" stroke-width="1.5"/>
-                                                    <path d="M12 16a4 4 0 108 0" stroke="currentColor" stroke-width="1.5"
+                                                    <path d="M12 16a4 4 0 108 0" stroke="currentColor"
+                                                          stroke-width="1.5"
                                                           stroke-linecap="round"/>
                                                     <circle cx="12" cy="12" r="1.5" fill="currentColor"/>
                                                     <circle cx="20" cy="12" r="1.5" fill="currentColor"/>
@@ -100,16 +102,22 @@
                                             <div class="gentle-glow"></div>
                                         </div>
                                     </div>
-                                    <h1 class="comfort-title">Chào mừng trở lại!</h1>
-                                    <p class="gentle-subtitle">Vào thế giới số, hốt trọn ưu đãi độc quyền.!</p>
+                                    <h1 class="comfort-title">Đăng kí tài khoản Electro!</h1>
+                                    <p class="gentle-subtitle">Bắt đầu một trải nghiệm mua sắm không giới hạn!</p>
                                 </div>
-                                <c:if test="${not empty loginError}">
-                                    <div class="alert alert-danger text-center" role="alert">${loginError}</div>
+
+                                <c:if test="${not empty registerError}">
+                                    <div class="alert alert-danger text-center" role="alert">${registerError}</div>
                                 </c:if>
-                                <form class="comfort-form" id="loginForm" novalidate action="login" method="post">
+
+                                <form class="comfort-form" id="loginForm" novalidate action="register" method="post">
                                     <div class="soft-field">
                                         <div class="field-container">
-                                            <input type="text" id="username" name="username" required autocomplete="username" value="${submittedUsername}">
+                                            <input type="text" id="username" name="username" required
+                                                   autocomplete="username" maxlength="32"
+                                                   pattern="[A-Za-z][A-Za-z0-9._]{4,31}"
+                                                   title="Bat dau bang chu cai, gom chu/so/._, do dai 5-32 ky tu"
+                                                   value="${submittedUsername}">
                                             <label for="username">Tên đăng nhập</label>
                                             <div class="field-accent"></div>
                                         </div>
@@ -117,8 +125,19 @@
                                     </div>
                                     <div class="soft-field">
                                         <div class="field-container">
+                                            <input type="email" id="email" name="email" required autocomplete="email" value="${submittedEmail}">
+
+                                            <label for="email">Email</label>
+                                            <div class="field-accent"></div>
+                                        </div>
+                                        <span class="gentle-error" id="emailError"></span>
+                                    </div>
+                                    <div class="soft-field">
+                                        <div class="field-container">
                                             <input type="password" id="password" name="password" required
-                                                   autocomplete="current-password">
+                                                   autocomplete="new-password" minlength="8" maxlength="64"
+                                                   pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[^A-Za-z0-9])\\S{8,64}"
+                                                   title="8-64 ky tu, co chu hoa, chu thuong, so, ky tu dac biet, khong chua khoang trang">
                                             <label for="password">Mật khẩu</label>
                                             <div>
                                                 <button type="button" class="gentle-toggle" id="passwordToggle"
@@ -132,7 +151,42 @@
                                                                     stroke-width="1.5"
                                                                     fill="none"/>
                                                         </svg>
-                                                        <svg class="eye-closed" width="20" height="20" viewBox="0 0 20 20"
+                                                        <svg class="eye-closed" width="20" height="20"
+                                                             viewBox="0 0 20 20"
+                                                             fill="none">
+                                                            <path d="M3 3l14 14M8.5 8.5a3 3 0 004 4m2.5-2.5C15 10 12.5 7 10 7c-.5 0-1 .1-1.5.3M10 13c-2.5 0-4.5-2-5-3 .3-.6.7-1.2 1.2-1.7"
+                                                                  stroke="currentColor" stroke-width="1.5"
+                                                                  stroke-linecap="round"
+                                                                  stroke-linejoin="round"/>
+                                                        </svg>
+                                                    </div>
+                                                </button>
+
+                                            </div>
+
+                                            <div class="field-accent"></div>
+                                        </div>
+                                        <span class="gentle-error" id="passwordError"></span>
+                                    </div>
+                                    <div class="soft-field">
+                                        <div class="field-container">
+                                            <input type="password" id="passwordConfirm" name="passwordConfirm" required
+                                                   autocomplete="new-password" minlength="8" maxlength="64">
+                                            <label for="passwordConfirm">Xác nhận mật khẩu</label>
+                                            <div>
+                                                <button type="button" class="gentle-toggle" id="passwordToggle"
+                                                        aria-label="Toggle password visibility">
+                                                    <div class="toggle-icon">
+                                                        <svg class="eye-open" width="20" height="20" viewBox="0 0 20 20"
+                                                             fill="none">
+                                                            <path d="M10 3c-4.5 0-8.3 3.8-9 7 .7 3.2 4.5 7 9 7s8.3-3.8 9-7c-.7-3.2-4.5-7-9-7z"
+                                                                  stroke="currentColor" stroke-width="1.5" fill="none"/>
+                                                            <circle cx="10" cy="10" r="3" stroke="currentColor"
+                                                                    stroke-width="1.5"
+                                                                    fill="none"/>
+                                                        </svg>
+                                                        <svg class="eye-closed" width="20" height="20"
+                                                             viewBox="0 0 20 20"
                                                              fill="none">
                                                             <path d="M3 3l14 14M8.5 8.5a3 3 0 004 4m2.5-2.5C15 10 12.5 7 10 7c-.5 0-1 .1-1.5.3M10 13c-2.5 0-4.5-2-5-3 .3-.6.7-1.2 1.2-1.7"
                                                                   stroke="currentColor" stroke-width="1.5"
@@ -142,28 +196,14 @@
                                                     </div>
                                                 </button>
                                             </div>
+
                                             <div class="field-accent"></div>
                                         </div>
-                                        <span class="gentle-error" id="passwordError"></span>
+                                        <span class="gentle-error" id="passwordConfirmError"></span>
                                     </div>
-                                    <div class="comfort-options">
-                                        <label class="gentle-checkbox">
-                                            <input type="checkbox" id="remember" name="remember" <c:if test="${rememberChecked}">checked</c:if>>
-                                            <span class="checkbox-soft">
-                            <div class="check-circle"></div>
-                            <svg class="check-mark" width="12" height="10" viewBox="0 0 12 10" fill="none">
-                                <path d="M1 5l3 3 7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                      stroke-linejoin="round"/>
-                            </svg>
-                        </span>
-                                            <span class="checkbox-text">Lưu tài khoản</span>
-                                        </label>
-                                        <a href="#" class="comfort-link">Quên mật khẩu?</a>
-                                    </div>
-
                                     <button type="submit" class="comfort-button">
                                         <div class="button-background"></div>
-                                        <span class="button-text">ĐĂNG NHẬP</span>
+                                        <span class="button-text">ĐĂNG KÍ</span>
                                         <div class="button-loader">
                                             <div class="gentle-spinner">
                                                 <div class="spinner-circle"></div>
@@ -172,7 +212,9 @@
                                         <div class="button-glow"></div>
                                     </button>
                                 </form>
-                                <div id="accept" class="text-center">Bằng việc đăng nhập, bạn đã đồng ý với Electro. về <span><a href="">Điều khoản dịch vụ</a></span> & <span><a href="">Chính sách bảo mật.</a></span></div>
+                                <div class="text-center">Bằng việc đăng kí, bạn đã đồng ý với Electro. về <span><a
+                                        href="">Điều khoản dịch vụ</a></span> &amp; <span><a
+                                        href="">Chính sách bảo mật.</a></span></div>
                                 <div class="gentle-divider">
                                     <div class="divider-line"></div>
                                     <span class="divider-text">hoặc tiếp tục với</span>
@@ -207,8 +249,8 @@
                                 </div>
 
                                 <div class="comfort-signup">
-                                    <span class="signup-text">Chưa có tài khoản?</span>
-                                    <a href="register" class="comfort-link signup-link">Đăng kí</a>
+                                    <span class="signup-text">Đã có tài khoản?</span>
+                                    <a href="login" class="comfort-link signup-link">Đăng nhập</a>
                                 </div>
 
                                 <div class="gentle-success" id="successMessage">
@@ -227,7 +269,7 @@
                                         </div>
                                     </div>
                                     <h3 class="success-title">Chào mừng!</h3>
-                                    <p class="success-desc">Đang chuyển hướng tới trang chủ...</p>
+                                    <p class="success-desc">Đăng chuyển huướng tới trang chủ...</p>
                                 </div>
                             </div>
                         </div>
@@ -239,6 +281,8 @@
         </div>
 
     </div>
+
+
 </div>
 
 
@@ -305,7 +349,6 @@
 <script src="assets/js/main.js"></script>
 <script src="assets/js/form-utils.js"></script>
 <script src="assets/js/login.js"></script>
-
 
 </body>
 </html>
