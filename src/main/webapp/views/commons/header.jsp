@@ -1,47 +1,8 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<%@ page import="com.daizuongkk.web.model.Role" %>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>Electro - HTML Ecommerce Template</title>
-    <base href="${pageContext.request.contextPath}/">
-
-    <!-- Google font -->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
-
-    <!-- Bootstrap -->
-    <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css"/>
-
-    <!-- Slick -->
-    <link type="text/css" rel="stylesheet" href="assets/css/slick.css"/>
-    <link type="text/css" rel="stylesheet" href="assets/css/slick-theme.css"/>
-
-    <!-- nouislider -->
-    <link type="text/css" rel="stylesheet" href="assets/css/nouislider.min.css"/>
-
-    <!-- Font Awesome Icon -->
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-
-    <!-- Custom stlylesheet -->
-    <link type="text/css" rel="stylesheet" href="assets/css/style.css"/>
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <script src="https://kit.fontawesome.com/0a5ec8a544.js" crossorigin="anonymous"></script>
-
-    <![endif]-->
-
-</head>
-<body>
 <!-- HEADER -->
 <header>
     <!-- TOP HEADER -->
@@ -53,11 +14,13 @@
                 <li><a href="#"><i class="fa fa-map-marker"></i> 1734 Stonecoal Road</a></li>
             </ul>
             <ul class="header-links pull-right">
-                <li><a href="#"><i class="fa fa-dollar"></i> USD</a></li>
-
-
                 <c:choose>
-                    <c:when test="${not empty sessionScope.account}">
+                    <c:when test="${sessionScope.account.role == Role.ADMIN}">
+                        <li><a href="admin/dashboard"><i class="fa fa-user-o"></i>Admin</a></li>
+                    </c:when>
+                </c:choose>
+                <c:choose>
+                    <c:when test="${sessionScope.account != null}">
                         <li><a href="#"><i class="fa fa-user-o"></i>Tài Khoản</a></li>
                         <li><a href="logout"><i class="fa fa-sign-out"></i>Đăng Xuất</a></li>
                     </c:when>
@@ -66,7 +29,6 @@
                         <li><a href="register"><i class="fa fa-user"></i>Đăng Kí</a></li>
                     </c:otherwise>
                 </c:choose>
-
             </ul>
         </div>
     </div>
@@ -81,8 +43,8 @@
                 <!-- LOGO -->
                 <div class="col-md-3">
                     <div class="header-logo">
-                        <a href="#" class="logo">
-                            <img src="./assets/img/logo.png" alt="">
+                        <a href="home" class="logo">
+                            <img src="assets/img/logo.png" alt="">
                         </a>
                     </div>
                 </div>
@@ -128,7 +90,7 @@
                                 <div class="cart-list">
                                     <div class="product-widget">
                                         <div class="product-img">
-                                            <img src="./assets/img/product01.png" alt="">
+                                            <img src="assets/img/product01.png" alt="">
                                         </div>
                                         <div class="product-body">
                                             <h3 class="product-name"><a href="#">product name goes here</a></h3>
@@ -139,7 +101,7 @@
 
                                     <div class="product-widget">
                                         <div class="product-img">
-                                            <img src="./assets/img/product02.png" alt="">
+                                            <img src="assets/img/product02.png" alt="">
                                         </div>
                                         <div class="product-body">
                                             <h3 class="product-name"><a href="#">product name goes here</a></h3>
@@ -181,14 +143,3 @@
 <!-- /HEADER -->
 
 
-<!-- jQuery Plugins -->
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/slick.min.js"></script>
-<script src="assets/js/nouislider.min.js"></script>
-<script src="assets/js/jquery.zoom.min.js"></script>
-<script src="assets/js/main.js"></script>
-
-
-</body>
-</html>

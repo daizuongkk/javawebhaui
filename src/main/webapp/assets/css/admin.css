@@ -8,9 +8,9 @@
   font-style: normal;
   font-weight: 400;
   src:
-    url(../tabler-icons.woff2?v3.35.0) format("woff2"),
-    url(../tabler-icons.woff?) format("woff"),
-    url(../tabler-icons.ttf?v3.35.0) format("truetype");
+    url(../fonts/tabler-icons.woff2?v3.35.0) format("woff2"),
+    url(../fonts/tabler-icons.woff?) format("woff"),
+    url(../fonts/tabler-icons.ttf?v3.35.0) format("truetype");
 }
 .ti {
   font-family: tabler-icons !important;
@@ -21298,7 +21298,7 @@ fieldset:disabled .btn {
 }
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #e66239;
+  --bs-btn-bg: #D10024;
   --bs-btn-border-color: #e66239;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #c45330;
@@ -33131,7 +33131,7 @@ fieldset:disabled .btn {
 }
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: #D10024 !important;
 }
 .text-secondary {
   --bs-text-opacity: 1;
@@ -33175,7 +33175,7 @@ fieldset:disabled .btn {
 }
 .text-muted {
   --bs-text-opacity: 1;
-  color: var(--bs-secondary-color) !important;
+  color: #FFFFFF !important;
 }
 .text-black-50 {
   --bs-text-opacity: 1;

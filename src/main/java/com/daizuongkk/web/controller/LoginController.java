@@ -58,7 +58,6 @@ public class LoginController extends HttpServlet {
         }
 
         UserResponse res = authService.login(username, password);
-
         if (res == null) {
             request.setAttribute("loginError", "Tên đăng nhập hoặc mật khẩu không hợp lệ.");
             request.setAttribute("submittedUsername", username.trim());
@@ -66,18 +65,10 @@ public class LoginController extends HttpServlet {
             request.getRequestDispatcher("/views/pages/login.jsp").forward(request, response);
             return;
         }
-
         HttpSession session = request.getSession(true);
         session.setAttribute("account", res);
-        session.setAttribute("user", res);
 
         writeRememberCookie(response, username.trim(), rememberMe, request.isSecure(), request.getContextPath());
-
-        if (Role.ADMIN.equals(res.getRole())) {
-            response.sendRedirect("admin");
-            return;
-        }
-
         response.sendRedirect("home");
     }
 

@@ -23,25 +23,12 @@ public class UserRepository {
         }
 
         String sql = "SELECT * FROM users WHERE username = ? OR email = ?";
-        try (PreparedStatement statement = getConnection().prepareStatement(sql)) {
+        try (PreparedStatement statement = connection.prepareStatement(sql)) {
             statement.setString(1, username.trim());
             statement.setString(2, username.trim());
             ResultSet resultSet = statement.executeQuery();
             if (resultSet.next()) {
-                User user = new User();
-                user.setId(resultSet.getLong("id"));
-                user.setUsername(resultSet.getString("username"));
-                user.setPassword(resultSet.getString("password"));
-                user.setRole(Role.valueOf(resultSet.getString("role")));
-                user.setAvtUrl(resultSet.getString("avt_url"));
-                user.setFirstName(resultSet.getString("first_name"));
-                user.setLastName(resultSet.getString("last_name"));
-                user.setPhone(resultSet.getString("phone"));
-                user.setEmail(resultSet.getString("email"));
-                user.setActive(resultSet.getBoolean("active"));
-                user.setCreatedAt(resultSet.getTimestamp("created_at"));
-                user.setUpdatedAt(resultSet.getTimestamp("updated_at"));
-                return user;
+                return resultSetToUser(resultSet);
             } else {
                 return null;
             }
@@ -50,6 +37,23 @@ public class UserRepository {
             e.printStackTrace();
             return null;
         }
+    }
+
+    private User resultSetToUser(ResultSet resultSet) throws SQLException {
+        User user = new User();
+        user.setId(resultSet.getLong("id"));
+        user.setUsername(resultSet.getString("username"));
+        user.setPassword(resultSet.getString("password"));
+        user.setRole(Role.valueOf(resultSet.getString("role")));
+        user.setAvtUrl(resultSet.getString("avt_url"));
+        user.setFirstName(resultSet.getString("first_name"));
+        user.setLastName(resultSet.getString("last_name"));
+        user.setPhone(resultSet.getString("phone"));
+        user.setEmail(resultSet.getString("email"));
+        user.setActive(resultSet.getBoolean("active"));
+        user.setCreatedAt(resultSet.getTimestamp("created_at"));
+        user.setUpdatedAt(resultSet.getTimestamp("updated_at"));
+        return user;
     }
 
     public synchronized boolean existsByUsername(String username) {
@@ -62,7 +66,7 @@ public class UserRepository {
 
     public synchronized boolean create(User user) {
         String sql = "INSERT INTO users (username, email, password, role) VALUES (?, ?, ?, ?)";
-        try (PreparedStatement statement = getConnection().prepareStatement(sql)) {
+        try (PreparedStatement statement = connection.prepareStatement(sql)) {
             statement.setString(1, user.getUsername());
             statement.setString(2, user.getEmail());
             statement.setString(3, user.getPassword());
@@ -79,7 +83,7 @@ public class UserRepository {
             return false;
         }
 
-        try (PreparedStatement statement = getConnection().prepareStatement(sql)) {
+        try (PreparedStatement statement = connection.prepareStatement(sql)) {
             statement.setString(1, value.trim());
             try (ResultSet resultSet = statement.executeQuery()) {
                 return resultSet.next();
@@ -114,6 +118,26 @@ public class UserRepository {
         }
     }
 
+    public User findById(Long id) {
+        String sql = "SELECT * FROM users WHERE id = ?";
+        if (id == null) {
+            return null;
+        }
 
+        User user = null;
+        try (PreparedStatement statement = connection.prepareStatement(sql)) {
+            statement.setLong(1, id);
+            try (ResultSet resultSet = statement.executeQuery()) {
+
+                if (resultSet.next()) {
+                   user =  resultSetToUser(resultSet);
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        }
+        return user;
+    }
 
 }

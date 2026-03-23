@@ -1,5 +1,6 @@
 package com.daizuongkk.web.service;
 
+import com.daizuongkk.web.model.User;
 import com.daizuongkk.web.repository.UserRepository;
 
 public class UserService {
@@ -10,6 +11,8 @@ public class UserService {
     }
 
 
-
+    public User findById(Long id) {
+        return userRepository.findById(id);
+    }
 
 }
