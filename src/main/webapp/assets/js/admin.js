@@ -13364,7 +13364,7 @@ var ve = (function () {
                 xaxis: [this.xAxisAnnotation],
                 points: [this.pointAnnotation],
                 texts: [],
-                images: [],
+                img: [],
                 shapes: [],
               },
               chart: {
@@ -14184,7 +14184,7 @@ var ve = (function () {
           key: "drawImageAnnos",
           value: function () {
             var e = this;
-            this.w.config.annotations.images.map(function (t, i) {
+            this.w.config.annotations.img.map(function (t, i) {
               e.addImage(t, i);
             });
           },
@@ -18234,7 +18234,7 @@ var ve = (function () {
                   ),
                 u = t.svgStringToNode(d);
               (a !== 1 && t.scaleSvgNode(u, a),
-                t.convertImagesToBase64(u).then(function () {
+                t.convertimgToBase64(u).then(function () {
                   ((d = new XMLSerializer().serializeToString(u)),
                     i(d.replace(/&nbsp;/g, "&#160;")));
                 }));
@@ -18242,7 +18242,7 @@ var ve = (function () {
           },
         },
         {
-          key: "convertImagesToBase64",
+          key: "convertimgToBase64",
           value: function (e) {
             var t = this,
               i = e.getElementsByTagName("image"),

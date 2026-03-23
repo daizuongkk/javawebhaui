@@ -1,11 +1,19 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<base href="${pageContext.request.contextPath}/">
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <c:set var="pageTitle" value="Báo Cáo" />
-  <%@ include file="../commons/head.jsp" %>
+  <meta charset="UTF-8"/>
+  <title>InApp Inventory Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon-16x16.png">
+  <link rel="manifest" href="./assets/site.webmanifest">
+
   <script type="module" crossorigin src="./assets/js/admin.js"></script>
   <link rel="stylesheet" crossorigin href="./assets/css/admin.css">
 </head>
@@ -47,7 +55,7 @@
             <ul class="list-unstyled p-0 m-0">
               <li class="p-3 border-bottom ">
                 <div class="d-flex gap-3">
-                  <img src="./assets/images/avatar-1.jpg" alt="" class="avatar avatar-sm rounded-circle" />
+                  <img src="./assets/img/avatar-1.jpg" alt="" class="avatar avatar-sm rounded-circle" />
                   <div class="flex-grow-1 small">
                     <p class="mb-0">New order received</p>
                     <p class="mb-1">Order #12345 has been placed</p>
@@ -57,7 +65,7 @@
               </li>
               <li class="p-3 border-bottom ">
                 <div class="d-flex gap-3">
-                  <img src="./assets/images/avatar-4.jpg" alt="" class="avatar avatar-sm rounded-circle" />
+                  <img src="./assets/img/avatar-4.jpg" alt="" class="avatar avatar-sm rounded-circle" />
                   <div class="flex-grow-1 small">
                     <p class="mb-0">New user registered</p>
                     <p class="mb-1">User @john_doe has signed up</p>
@@ -67,7 +75,7 @@
 
               <li class="p-3 border-bottom">
                 <div class="d-flex gap-3">
-                  <img src="./assets/images/avatar-2.jpg" alt="" class="avatar avatar-sm rounded-circle" />
+                  <img src="./assets/img/avatar-2.jpg" alt="" class="avatar avatar-sm rounded-circle" />
                   <div class="flex-grow-1 small">
                     <p class="mb-0">Payment confirmed</p>
                     <p class="mb-1">Payment of $299 has been received</p>
@@ -84,12 +92,12 @@
         <!-- Dropdown -->
         <li class="ms-3 dropdown">
           <a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            <img src="./assets/images/avatar-1.jpg" alt="" class="avatar avatar-sm rounded-circle" />
+            <img src="./assets/img/avatar-1.jpg" alt="" class="avatar avatar-sm rounded-circle" />
           </a>
           <div class="dropdown-menu dropdown-menu-end p-0" style="min-width: 200px;">
             <div>
               <div class="d-flex gap-3 align-items-center border-dashed border-bottom px-3 py-3">
-                <img src="./assets/images/avatar-1.jpg" alt="" class="avatar avatar-md rounded-circle" />
+                <img src="./assets/img/avatar-1.jpg" alt="" class="avatar avatar-md rounded-circle" />
                 <div>
                   <h4 class="mb-0 small">Shrina Tesla</h4>
                   <p class="mb-0  small">@imshrina</p>
@@ -232,7 +240,7 @@
               <div class="list-group list-group-flush">
                 <div class="list-group-item p-3 d-flex align-items-center">
                   <div class="me-3">
-                    <img src="./assets/images/product-1.png" alt="Product A" class="rounded" style="width:48px; height:48px; object-fit:cover;">
+                    <img src="./assets/img/product-1.png" alt="Product A" class="rounded" style="width:48px; height:48px; object-fit:cover;">
                   </div>
                   <div class="flex-grow-1">
                     <div class="d-flex justify-content-between align-items-center">
@@ -249,7 +257,7 @@
 
                 <div class="list-group-item p-3 d-flex align-items-center">
                   <div class="me-3">
-                    <img src="./assets/images/product-2.png" alt="Product B" class="rounded" style="width:48px; height:48px; object-fit:cover;">
+                    <img src="./assets/img/product-2.png" alt="Product B" class="rounded" style="width:48px; height:48px; object-fit:cover;">
                   </div>
                   <div class="flex-grow-1">
                     <div class="d-flex justify-content-between align-items-center">
@@ -266,7 +274,7 @@
 
                 <div class="list-group-item p-3 d-flex align-items-center">
                   <div class="me-3">
-                    <img src="./assets/images/product-3.png" alt="Product C" class="rounded" style="width:48px; height:48px; object-fit:cover;">
+                    <img src="./assets/img/product-3.png" alt="Product C" class="rounded" style="width:48px; height:48px; object-fit:cover;">
                   </div>
                   <div class="flex-grow-1">
                     <div class="d-flex justify-content-between align-items-center">
