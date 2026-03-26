@@ -54,8 +54,9 @@ public class ProductService {
         return productResponseList;
     }
 
-    public Product getProductById(Long id) {
-        return productRepository.findById(id);
+    public ProductResponse getProductById(Long id) {
+
+        return productToProductResponse(productRepository.findById(id))  ;
     }
 
     public List<Product> getProductsByCategory(String category) {

@@ -33,7 +33,11 @@ public class AuthFilter implements Filter {
         if (uri.contains("/login") ||
                 uri.contains("/register") ||
                 uri.contains("/assets") ||
-                uri.contains("/home")) {
+                uri.contains("/home") ||
+                uri.contains("/shop") ||
+                uri.contains("/products")
+
+        ) {
 
             chain.doFilter(request, response);
             return;

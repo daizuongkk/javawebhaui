@@ -1,22 +1,24 @@
 package com.daizuongkk.web.model;
 
-import java.util.ArrayList;
-import java.util.List;
+import lombok.Getter;
 
-public enum Category {
+import java.util.HashMap;
+import java.util.Map;
+@Getter
+public   enum Category {
 
     DIEN_THOAI("Điện Thoại"), LAPTOP("Máy Tính"), CAMERA("Máy Ảnh"), PHU_KIEN("Phụ Kiện");
 
-    private String name;
+    private final String name;
 
-    Category(String s) {
+    Category(String name) {
         this.name = name;
     }
 
-    public List<String> getAllCategory() {
-        List<String> categories = new ArrayList<>();
+    public static Map<String, String> getAlls() {
+       Map<String, String> categories = new HashMap<String, String>();
         for (Category category : Category.values()) {
-            categories.add(category.name);
+            categories.put(category.toString(), category.name);
         }
         return categories;
     }

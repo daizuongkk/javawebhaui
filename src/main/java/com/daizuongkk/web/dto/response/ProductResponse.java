@@ -15,6 +15,7 @@ public class ProductResponse {
     private Long id;
     private String name;
     private String description;
+    private  String detail;
     private  String summary;
     private String category;
     private Double price;

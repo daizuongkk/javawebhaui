@@ -1593,6 +1593,7 @@ textarea.input {
 .product-details .add-to-cart .add-to-cart-btn:hover>i {
   opacity: 1;
   visibility: visible;
+  font-size: 10px ;
 }
 
 .product-details .add-to-cart .qty-label {

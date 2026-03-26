@@ -103,10 +103,17 @@
 							<h3 class="title">New Products</h3>
 							<div class="section-nav">
 								<ul class="section-tab-nav tab-nav">
-									<li class="active"><a data-toggle="tab" href="#tab1">Laptops</a></li>
-									<li><a data-toggle="tab" href="#tab1">Smartphones</a></li>
-									<li><a data-toggle="tab" href="#tab1">Cameras</a></li>
-									<li><a data-toggle="tab" href="#tab1">Accessories</a></li>
+									<ul class="section-tab-nav tab-nav">
+										<li class="active"><a data-toggle="tab" href="#tab1">Tất Cả</a></li>
+
+										<c:forEach var="category" items="${categories}">
+											<li>
+												<a data-toggle="tab" href="#tab1">
+														${category.value}
+												</a>
+											</li>
+										</c:forEach>
+									</ul>
 								</ul>
 							</div>
 						</div>
@@ -182,9 +189,9 @@
 									</div>
 								</li>
 							</ul>
-							<h2 class="text-uppercase">hot deal this week</h2>
-							<p>New Collection Up to 50% OFF</p>
-							<a class="primary-btn cta-btn" href="shop">Shop now</a>
+							<h2 class="text-uppercase">tuần lễ siêu khuyến mãi</h2>
+							<p>GIẢM GÁ TỚI 50% CHO NHỮNG MẪU MÁY HOT NHẤT 2026</p>
+							<a class="primary-btn cta-btn" href="shop">MUA SẮM NGAY</a>
 						</div>
 					</div>
 				</div>
@@ -204,13 +211,18 @@
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">
-							<h3 class="title">Top selling</h3>
+							<h3 class="title">Bán Chạy</h3>
 							<div class="section-nav">
 								<ul class="section-tab-nav tab-nav">
-									<li class="active"><a data-toggle="tab" href="#tab2">Laptops</a></li>
-									<li><a data-toggle="tab" href="#tab2">Smartphones</a></li>
-									<li><a data-toggle="tab" href="#tab2">Cameras</a></li>
-									<li><a data-toggle="tab" href="#tab2">Accessories</a></li>
+									<li class="active"><a data-toggle="tab" href="#tab2">Tất Cả</a></li>
+
+									<c:forEach var="category" items="${categories}">
+										<li>
+											<a data-toggle="tab" href="#tab2">
+													${category.value}
+											</a>
+										</li>
+									</c:forEach>
 								</ul>
 							</div>
 						</div>

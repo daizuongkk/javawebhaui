@@ -1,5 +1,7 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="jakarta.tags.core" %>
+<%@ taglib prefix="fmt" uri="jakarta.tags.fmt" %>
+
 <c:url var="fallbackProductImage" value="/assets/img/product01.png"/>
 <jsp:useBean id="now" class="java.util.Date" />
 <style>
@@ -12,7 +14,7 @@
 
     .product .product-img {
         width: 100%;
-        height: 250px;
+        height: 280px;
         overflow: hidden;
         display: flex;
         align-items: center;
@@ -50,7 +52,7 @@
     }
 
     .product .product-btns {
-        margin-top: auto;
+        margin-top: 10px;
     }
 
     .product .add-to-cart {
@@ -60,7 +62,7 @@
 </style>
 
 <!-- product -->
-<a href="/product/detail/${id}" class="product-link">
+<a href="${pageContext.request.contextPath}/products?id=${product.id}" class="product-link">
     <div class="product">
         <div class="product-img">
             <img src="${not empty product.imageUrl ? product.imageUrl[0] : fallbackProductImage}" alt="${product.name}">
@@ -82,12 +84,16 @@
             </h3>
             <h4 class="product-price">
                 <c:choose>
-                    <c:when test="${product.price != null}">$<c:out
-                            value="${product.price - product.price*product.promotion / 100}"/></c:when>
+                    <c:when test="${product.price != null}">
+                        $<fmt:formatNumber
+                            value="${product.price - (product.price * product.promotion / 100)}"
+                            type="number"
+                            pattern="#.00" />
+                    </c:when>
                     <c:otherwise>Contact</c:otherwise>
                 </c:choose>
                 <c:if test="${product.promotion != null && product.promotion > 0}">
-                    <del class="product-old-price">-<c:out value="${product.price}"/>%</del>
+                    <del class="product-old-price"><c:out value="${product.price}"/></del>
                 </c:if>
             </h4>
             <div class="product-rating">
@@ -112,16 +118,16 @@
             </div>
             <div class="product-btns">
                 <button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span
-                        class="tooltipp">add to wishlist</span>
+                        class="tooltipp">thêm yêu thích</span>
                 </button>
                 <button class="add-to-compare"><i class="fa fa-exchange"></i><span
-                        class="tooltipp">add to compare</span>
+                        class="tooltipp">thêm so sánh</span>
                 </button>
-                <button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+                <button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">xem nhanh</span></button>
             </div>
         </div>
         <div class="add-to-cart">
-            <button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
+            <button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Thêm Vào Giỏ</button>
         </div>
     </div>
 </a>

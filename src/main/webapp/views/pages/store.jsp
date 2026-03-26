@@ -5,38 +5,10 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		<title>Electro - HTML Ecommerce Template</title>
+		<c:set var="pageTitle" value="Electro. - Mua Sắm"/>
 
- 		<!-- Google font -->
- 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
-
- 		<!-- Bootstrap -->
- 		<link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css"/>
-
- 		<!-- Slick -->
- 		<link type="text/css" rel="stylesheet" href="assets/css/slick.css"/>
- 		<link type="text/css" rel="stylesheet" href="assets/css/slick-theme.css"/>
-
- 		<!-- nouislider -->
- 		<link type="text/css" rel="stylesheet" href="assets/css/nouislider.min.css"/>
-
- 		<!-- Font Awesome Icon -->
- 		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-
- 		<!-- Custom stlylesheet -->
- 		<link type="text/css" rel="stylesheet" href="assets/css/style.css"/>
-
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
+		<%@include file="../commons/head.jsp"%>
 
     </head>
 	<body>
@@ -55,7 +27,6 @@
 					<ul class="main-nav nav navbar-nav">
 						<li class="active"><a href="#">Home</a></li>
 						<li><a href="#">Hot Deals</a></li>
-						<li><a href="#">Categories</a></li>
 						<li><a href="#">Laptops</a></li>
 						<li><a href="#">Smartphones</a></li>
 						<li><a href="#">Cameras</a></li>
@@ -100,7 +71,7 @@
 					<div id="aside" class="col-md-3">
 						<!-- aside Widget -->
 						<div class="aside">
-							<h3 class="aside-title">Categories</h3>
+							<h3 class="aside-title">Phân loại</h3>
 							<div class="checkbox-filter">
 
 								<div class="input-checkbox">
@@ -112,57 +83,13 @@
 									</label>
 								</div>
 
-								<div class="input-checkbox">
-									<input type="checkbox" id="category-2">
-									<label for="category-2">
-										<span></span>
-										Smartphones
-										<small>(740)</small>
-									</label>
-								</div>
-
-								<div class="input-checkbox">
-									<input type="checkbox" id="category-3">
-									<label for="category-3">
-										<span></span>
-										Cameras
-										<small>(1450)</small>
-									</label>
-								</div>
-
-								<div class="input-checkbox">
-									<input type="checkbox" id="category-4">
-									<label for="category-4">
-										<span></span>
-										Accessories
-										<small>(578)</small>
-									</label>
-								</div>
-
-								<div class="input-checkbox">
-									<input type="checkbox" id="category-5">
-									<label for="category-5">
-										<span></span>
-										Laptops
-										<small>(120)</small>
-									</label>
-								</div>
-
-								<div class="input-checkbox">
-									<input type="checkbox" id="category-6">
-									<label for="category-6">
-										<span></span>
-										Smartphones
-										<small>(740)</small>
-									</label>
-								</div>
 							</div>
 						</div>
 						<!-- /aside Widget -->
 
 						<!-- aside Widget -->
 						<div class="aside">
-							<h3 class="aside-title">Price</h3>
+							<h3 class="aside-title">Giá</h3>
 							<div class="price-filter">
 								<div id="price-slider"></div>
 								<div class="input-number price-min">
@@ -182,7 +109,7 @@
 
 						<!-- aside Widget -->
 						<div class="aside">
-							<h3 class="aside-title">Brand</h3>
+							<h3 class="aside-title">Hãng</h3>
 							<div class="checkbox-filter">
 								<div class="input-checkbox">
 									<input type="checkbox" id="brand-1">
@@ -238,7 +165,7 @@
 
 						<!-- aside Widget -->
 						<div class="aside">
-							<h3 class="aside-title">Top selling</h3>
+							<h3 class="aside-title">Bán Chạy</h3>
 							<div class="product-widget">
 								<div class="product-img">
 									<img src="assets/img/product01.png" alt="">
@@ -291,7 +218,7 @@
 
 								<label>
 									Show:
-									<select class="input-select" onchange="window.location.href='${pageContext.request.contextPath}/products?page=1&size=' + this.value">
+									<select class="input-select" onchange="window.location.href='${pageContext.request.contextPath}/shop?page=1&size=' + this.value">
 										<option value="9" ${pageSize == 9 ? 'selected' : ''}>9</option>
 										<option value="18" ${pageSize == 18 ? 'selected' : ''}>18</option>
 										<option value="27" ${pageSize == 27 ? 'selected' : ''}>27</option>
@@ -329,7 +256,7 @@
 							<ul class="store-pagination">
 								<c:if test="${currentPage > 1}">
 									<li>
-										<a href="${pageContext.request.contextPath}/products?page=${currentPage - 1}&size=${pageSize}">
+										<a href="${pageContext.request.contextPath}/shop?page=${currentPage - 1}&size=${pageSize}">
 											<i class="fa fa-angle-left"></i>
 										</a>
 									</li>
@@ -337,13 +264,13 @@
 
 								<c:forEach begin="1" end="${totalPages}" var="pageNum">
 									<li class="${pageNum == currentPage ? 'active' : ''}">
-										<a href="${pageContext.request.contextPath}/products?page=${pageNum}&size=${pageSize}">${pageNum}</a>
+										<a href="${pageContext.request.contextPath}/shop?page=${pageNum}&size=${pageSize}">${pageNum}</a>
 									</li>
 								</c:forEach>
 
 								<c:if test="${currentPage < totalPages}">
 									<li>
-										<a href="${pageContext.request.contextPath}/products?page=${currentPage + 1}&size=${pageSize}">
+										<a href="${pageContext.request.contextPath}/shop?page=${currentPage + 1}&size=${pageSize}">
 											<i class="fa fa-angle-right"></i>
 										</a>
 									</li>

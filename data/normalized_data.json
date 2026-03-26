@@ -1,0 +1,2960 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "HONOR X8d 8GB 128GB",
+      "description": "HONOR X8d 8GB 128GB",
+      "detail": "Kích thước màn hình: 6.77 inches\nCông nghệ màn hình: AMOLED\nCamera sau: Camera chính 108MP (f/1.75) + Camera rộng 5MP (f/2.2)\nCamera trước: 16MP (f/2.45)\nChipset: Snapdragon 6s 4G thế hệ 2\nCông nghệ NFC: Có\nDung lượng RAM: 8 GB\nBộ nhớ trong: 128 GB\nPin: 6800mAh (giá trị định mức), 7000 mAh (giá trị điển hình)\nThẻ SIM: 2 Nano-SIM\nHệ điều hành: MagicOS 10 (Dựa trên Android 16)\nĐộ phân giải màn hình: 1080 x 2392 pixels\nTính năng màn hình: Màu sắc: 1,07 tỷ màuCông nghệ Eye Comfort800 nit (điển hình) 1300 nit (loại HBM) 3000 nit (loại APL)Chất liệu kính Thủy tinh Aluminosilicate\nLoại CPU: Octa-core, 4 * A73 2,9 GHz + 4 * A53 1,9 GHz",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 7790000.0,
+      "brand": "Honor",
+      "promotion": 4,
+      "created_at": "2026-03-26T22:31:52.295613"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S25 Ultra 12GB 256GB",
+      "description": "Samsung Galaxy S25 Ultra 12GB 256GB",
+      "detail": "Kích thước màn hình: 6.9 inches\nCông nghệ màn hình: Dynamic AMOLED 2X\nCamera sau: Camera siêu rộng 50MPCamera góc rộng 200 MPCamera Tele (5x) 50MPCamera Tele (3x) 10MP\"\nCamera trước: 12 MP\nChipset: Snapdragon 8 Elite dành cho Galaxy (3nm)\nCông nghệ NFC: Có\nDung lượng RAM: 12 GB\nBộ nhớ trong: 256 GB\nPin: 5000 mAh\nThẻ SIM: 2 Nano-SIM + eSIM\nHệ điều hành: Android 15\nĐộ phân giải màn hình: 3120 x 1440 pixels (Quad HD+)\nTính năng màn hình: 120Hz2600 nitsCorning® Gorilla® Armor 2",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 27490000.0,
+      "brand": "Samsung",
+      "promotion": 18,
+      "created_at": "2026-03-26T22:31:52.295648"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi 17 Ultra 5G 16GB 512GB",
+      "description": "Xiaomi 17 Ultra 5G 16GB 512GB",
+      "detail": "Kích thước màn hình: 6.9 inches\nCông nghệ màn hình: LTPO AMOLED\nCamera sau: Camera chính: 200 MPGóc siêu rộng: 50 MP\nCamera trước: 50 MP\nChipset: Qualcomm Snapdragon 8 Elite Gen 5\nCông nghệ NFC: Có\nDung lượng RAM: 16 GB\nBộ nhớ trong: 512 GB\nPin: 6000 mAh\nThẻ SIM: 2 Nano-SIM\nHệ điều hành: Android 16 với HyperOS\nTính năng màn hình: Độ phân giải màn hình: 2608 × 1200 pixelsĐộ sáng tối đa 3500 nits\nLoại CPU: 8 nhân",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 36990000.0,
+      "brand": "Xiaomi",
+      "promotion": 8,
+      "created_at": "2026-03-26T22:31:52.295674"
+    },
+    {
+      "id": 4,
+      "name": "OPPO Reno15 5G 12GB 256GB",
+      "description": "OPPO Reno15 5G 12GB 256GB",
+      "detail": "Kích thước màn hình: 6.59 inches\nCông nghệ màn hình: AMOLED\nCamera sau: Chính 50MP f/1.8 (OIS) + Telephoto 50MP f/2.8 (OIS) + Góc siêu rộng 8MP f/2.2\nCamera trước: 50MP f/2.0\nChipset: Qualcomm Snapdragon 7 Gen4 5G\nCông nghệ NFC: Có\nDung lượng RAM: 12 GB\nBộ nhớ trong: 256 GB\nPin: 6500 mAh\nThẻ SIM: Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM\nHệ điều hành: ColorOS 16.0\nĐộ phân giải màn hình: 1256 x 2760 pixels\nTính năng màn hình: Cảm ứng 240Hz, 100% DCI-P3, 10-bit (1.07 tỷ màu), Độ sáng tối đa 1200 nits\nLoại CPU: 8 nhân",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 16990000.0,
+      "brand": "OPPO",
+      "promotion": 0,
+      "created_at": "2026-03-26T22:31:52.295857"
+    },
+    {
+      "id": 5,
+      "name": "OPPO Reno15 F 5G 8GB 256GB",
+      "description": "OPPO Reno15 F 5G 8GB 256GB",
+      "detail": "Kích thước màn hình: 6.57 inches\nCông nghệ màn hình: AMOLED\nCamera sau: Chính 50MP f/1.8 (OIS, AF) + Góc siêu rộng 8MP f/2.2 + Macro 2MP f/2.4\nCamera trước: 50MP f/2.0, hỗ trợ AF\nChipset: Qualcomm Snapdragon 6 Gen 1 5G\nCông nghệ NFC: Có\nDung lượng RAM: 8 GB\nBộ nhớ trong: 256 GB\nPin: 7000mAh\nThẻ SIM: 2 Nano SIM (Sim 2 chung khe với thẻ nhớ)\nHệ điều hành: ColorOS 16.0\nĐộ phân giải màn hình: 1080 x 2372 pixels (FullHD+)\nTính năng màn hình: 1.07 tỷ màu (10-bit), DCI-P3 100%, Độ sáng tối đa 1400 nits\nLoại CPU: 8 nhân",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 11990000.0,
+      "brand": "OPPO",
+      "promotion": 0,
+      "created_at": "2026-03-26T22:31:52.295873"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB",
+      "description": "Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB",
+      "detail": "Kích thước màn hình: 6.67 inches\nCông nghệ màn hình: AMOLED\nCamera sau: Chính 200MP, OIS - f/1.65  Góc siêu rộng 8MP - f/2.2 Macro 2MP - f/2.4\nCamera trước: Camera trước - f/2.2\nChipset: Snapdragon® 7s Gen 3\nCông nghệ NFC: Có\nDung lượng RAM: 8 GB\nBộ nhớ trong: 256 GB\nPin: 5110 mAh\nThẻ SIM: 2 Nano-SIM\nHệ điều hành: Android 14\nĐộ phân giải màn hình: 2712 x 1220 pixels\nTính năng màn hình: Tần số quét: Lên đến 120Hz  Độ sáng: 3000 nits   Độ sâu màu: 12-bit  Tỷ lệ tương phản: 5,000,000:1\nLoại CPU: 8 nhân, xung nhịp 2.5Ghz",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 7990000.0,
+      "brand": "Xiaomi",
+      "promotion": 26,
+      "created_at": "2026-03-26T22:31:52.295888"
+    },
+    {
+      "id": 7,
+      "name": "Tecno Pova 7 8GB 256GB",
+      "description": "Tecno Pova 7 8GB 256GB",
+      "detail": "Kích thước màn hình: 6.78 inches\nCông nghệ màn hình: IPS LCD\nCamera sau: 108M+2M\nCamera trước: 8MP\nChipset: MediaTek Helio G100 Utimate\nCông nghệ NFC: Có\nDung lượng RAM: 8 GB\nBộ nhớ trong: 256 GB\nPin: 7000mAh\nThẻ SIM: 2 Nano-SIM\nHệ điều hành: Android 15\nĐộ phân giải màn hình: 1080x2460 pixels\nTính năng màn hình: Tần số quét 120Hz, FHD+, Độ sáng tối đa 900nits\nLoại CPU: 2*A76 up to 2.2Ghz, 6*A55 up to 2.0Ghz",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 4990000.0,
+      "brand": "Tecno",
+      "promotion": 12,
+      "created_at": "2026-03-26T22:31:52.295908"
+    },
+    {
+      "id": 8,
+      "name": "OPPO Find N6 16GB 512GB",
+      "description": "OPPO Find N6 16GB 512GB",
+      "detail": "Kích thước màn hình: 8.12 inches\nCông nghệ màn hình: AMOLED\nCamera sau: 200MP chính, f/1.8, OIS50MP telephoto, f/2.7, OIS50MP siêu rộng, f/2.0, 120°2MP monochrome, f/2.4\nCamera trước: 20MP màn hình trong20MP màn hình ngoài\nChipset: Snapdragon® 8 Elite Gen 5\nCông nghệ NFC: Có\nDung lượng RAM: 16 GB\nBộ nhớ trong: 512 GB\nPin: 6000 mAh\nThẻ SIM: Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM\nHệ điều hành: ColorOS 16.0\nTính năng màn hình: 1 - 120Hz adaptive, Cảm ứng 240Hz, 10-bit (1.07 tỷ màu), 100% DCI-P3, Tối đa 1800 nits, 412 - 431 PPI\nLoại CPU: 7 nhân",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 64990000.0,
+      "brand": "OPPO",
+      "promotion": 0,
+      "created_at": "2026-03-26T22:31:52.295922"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy A17 5G 8GB 128GB",
+      "description": "Samsung Galaxy A17 5G 8GB 128GB",
+      "detail": "Kích thước màn hình: 6.7 inches\nCông nghệ màn hình: Super AMOLED\nCamera sau: Chính 50 MPPhụ 5 MP, 2 MP\nCamera trước: 13 MP\nChipset: Exynos 1330\nCông nghệ NFC: Có\nDung lượng RAM: 8 GB\nBộ nhớ trong: 128 GB\nPin: Li-Ion 5000 mAh\nThẻ SIM: 2 Nano SIM (Sim 2 chung khe với thẻ nhớ)\nHệ điều hành: Android 15\nĐộ phân giải màn hình: 1080 x 2340 pixels (FullHD+)\nTính năng màn hình: Độ sáng tối đa 800 nitsKính cường lực Corning Gorilla Glass 7\nLoại CPU: 8 nhân (2 nhân 2.4 GHz & 6 nhân 2.0 GHz)",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 5890000.0,
+      "brand": "Samsung",
+      "promotion": 5,
+      "created_at": "2026-03-26T22:31:52.295930"
+    },
+    {
+      "id": 10,
+      "name": "Tecno Pova 7 8GB 128GB",
+      "description": "Tecno Pova 7 8GB 128GB",
+      "detail": "Kích thước màn hình: 6.78 inches\nCông nghệ màn hình: IPS LCD\nCamera sau: 108M+2M\nCamera trước: 8MP\nChipset: MediaTek Helio G100 Utimate\nCông nghệ NFC: Có\nDung lượng RAM: 8 GB\nBộ nhớ trong: 128 GB\nPin: 7000mAh\nThẻ SIM: 2 Nano-SIM\nHệ điều hành: Android 15\nĐộ phân giải màn hình: 1080x2460 pixels\nTính năng màn hình: Tần số quét 120Hz, FHD+, Độ sáng tối đa 900nits\nLoại CPU: 2*A76 up to 2.2Ghz, 6*A55 up to 2.0Ghz",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 4490000.0,
+      "brand": "Tecno",
+      "promotion": 10,
+      "created_at": "2026-03-26T22:31:52.295948"
+    },
+    {
+      "id": 11,
+      "name": "HONOR X9d 12GB 512GB",
+      "description": "HONOR X9d 12GB 512GB",
+      "detail": "Kích thước màn hình: 6.79 inches\nCông nghệ màn hình: AMOLED\nCamera sau: Camera chính 108MP (F1.75) + Camera góc rộng 5MP (F2.2)\nCamera trước: 16MP (F2.45)\nChipset: Snapdragon 6 Gen 4\nCông nghệ NFC: Có\nDung lượng RAM: 12 GB\nBộ nhớ trong: 512 GB\nPin: 8300 mAh\nThẻ SIM: 2 Nano-SIM\nHệ điều hành: MagicOS 9.0 (Dựa trên Android 15）\nĐộ phân giải màn hình: 1200 x 2640 pixels\nTính năng màn hình: 100% DCI-P3, 1,07 tỷ màu800 nits (điển hình), 1800 nits (chế độ HBM), 6000 nits (chế độ APL)Bảo vệ mắtMàn hình ban đêm sinh họcGiảm độ sáng độngKhử nháy sáng PWM 3840Hz\nLoại CPU: 8 nhân (1× A720 2.3GHz + 3× A720 2.2GHz + 4× A520 1.8GHz)",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 11490000.0,
+      "brand": "Honor",
+      "promotion": 4,
+      "created_at": "2026-03-26T22:31:52.295964"
+    },
+    {
+      "id": 12,
+      "name": "Nothing Phone 2A Plus 5G 12GB 256GB",
+      "description": "Nothing Phone 2A Plus 5G 12GB 256GB",
+      "detail": "Kích thước màn hình: 6.7 inches\nCông nghệ màn hình: Flexible AMOLED On-cell\nCamera sau: Camera chính: 50 MP, f/1.88, 1/1.57\"Camera góc siêu rộng: 50 MP, f/2.2, 1/2.76\"\nCamera trước: 50 MP, f/2.2, 1/2.76\"\nChipset: MediaTek Dimensity 7350 Pro 5G\nCông nghệ NFC: Có\nDung lượng RAM: 12 GB\nBộ nhớ trong: 256 GB\nPin: 5000 mAh\nThẻ SIM: 2 SIM (Nano-SIM)\nHệ điều hành: Android 14\nĐộ phân giải màn hình: 1080 x 2412 pixels\nTính năng màn hình: 1300 nits120 Hz, 1,07 tỷ màu\nLoại CPU: Up to 3.0 GHz",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 7990000.0,
+      "brand": "Nothing",
+      "promotion": 30,
+      "created_at": "2026-03-26T22:31:52.295983"
+    },
+    {
+      "id": 13,
+      "name": "Samsung Galaxy S26 12GB 256GB",
+      "description": "Samsung Galaxy S26 12GB 256GB",
+      "detail": "Kích thước màn hình: 6.3 inches\nCông nghệ màn hình: Dynamic AMOLED 2X\nCamera sau: Camera siêu rộng: 12MPCamera góc rộng: 50MPCamera Tele: 10MP\nCamera trước: 12MP\nChipset: Exynos 2600 (2nm)\nCông nghệ NFC: Có\nDung lượng RAM: 12 GB\nBộ nhớ trong: 256 GB\nPin: 4300 mAh\nThẻ SIM: 2 Nano-SIM + eSIM\nĐộ phân giải màn hình: 2340 x 1080-pixel\nTính năng màn hình: Tần số quét: 1-120HzĐộ sáng tối đa: 2600 nits",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 22990000.0,
+      "brand": "Samsung",
+      "promotion": 12,
+      "created_at": "2026-03-26T22:31:52.295993"
+    },
+    {
+      "id": 14,
+      "name": "Samsung Galaxy S26 Ultra 12GB 256GB",
+      "description": "Samsung Galaxy S26 Ultra 12GB 256GB",
+      "detail": "Kích thước màn hình: 6.9 inches\nCông nghệ màn hình: Dynamic AMOLED 2X\nCamera sau: Camera siêu rộng: 50MPCamera góc rộng: 200MPCamera Tele (5x): 50MPCamera Tele (3x): 10MP\nCamera trước: 12MP\nChipset: Snapdragon 8 Elite Gen 5 dành cho Galaxy (3nm)\nCông nghệ NFC: Có\nDung lượng RAM: 12 GB\nBộ nhớ trong: 256 GB\nPin: 5000 mAh\nThẻ SIM: 2 Nano-SIM + eSIM\nĐộ phân giải màn hình: 3120 x 1440 pixels (Quad HD+)\nTính năng màn hình: Tần số quét: 1-120HzĐộ sáng tối đa: 2600 nits",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 33990000.0,
+      "brand": "Samsung",
+      "promotion": 8,
+      "created_at": "2026-03-26T22:31:52.296010"
+    },
+    {
+      "id": 15,
+      "name": "POCO X8 Pro Max 12GB 256GB",
+      "description": "POCO X8 Pro Max 12GB 256GB",
+      "detail": "Kích thước màn hình: 6.83 inches\nCông nghệ màn hình: AMOLED\nCamera sau: 50 MP f/1.5 (cảm biến Light Hunter 600, OIS) + 8 MP (góc siêu rộng)\nCamera trước: 20 MP\nChipset: MediaTek Dimensity 9500s\nDung lượng RAM: 12 GB\nBộ nhớ trong: 256 GB\nPin: 8.500 mAh\nThẻ SIM: Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM\nHệ điều hành: Xiaomi HyperOS 3 (Android 16)\nĐộ phân giải màn hình: 2772 x 1280 pixels\nTính năng màn hình: Độ sáng tối đa 3.500 nits, PWM 3840Hz, 68 tỷ màu, dải màu DCI-P3, HDR10+\nLoại CPU: 1 × Cortex-X925 (tối đa 3.73GHz) + 3 × Cortex-X4 (tối đa 3.3GHz) + 4 × Cortex-A720 (tối đa 2.4GHz)",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 14990000.0,
+      "brand": "Xiaomi",
+      "promotion": 12,
+      "created_at": "2026-03-26T22:31:52.296029"
+    },
+    {
+      "id": 16,
+      "name": "Samsung Galaxy A07 4GB 128GB",
+      "description": "Samsung Galaxy A07 4GB 128GB",
+      "detail": "Kích thước màn hình: 6.7 inches\nCông nghệ màn hình: IPS LCD\nCamera sau: Chính 50 MPPhụ 2 MP\nCamera trước: 8 MP\nChipset: MediaTek Helio G99\nCông nghệ NFC: Không\nDung lượng RAM: 4 GB\nBộ nhớ trong: 128 GB\nPin: Li-Ion 5000 mAh\nThẻ SIM: 2 Nano-SIM\nHệ điều hành: Android 15\nĐộ phân giải màn hình: 720 x 1600 pixel\nTính năng màn hình: Độ sáng tối đa 480 nitsKính cường lực Panda\nLoại CPU: 8 nhân (2 nhân 2.2 GHz & 6 nhân 2.0 GHz)",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 3190000.0,
+      "brand": "Samsung",
+      "promotion": 6,
+      "created_at": "2026-03-26T22:31:52.296039"
+    },
+    {
+      "id": 17,
+      "name": "Samsung Galaxy S26 Ultra 12GB 512GB",
+      "description": "Samsung Galaxy S26 Ultra 12GB 512GB",
+      "detail": "Kích thước màn hình: 6.9 inches\nCông nghệ màn hình: Dynamic AMOLED 2X\nCamera sau: Camera siêu rộng: 50MPCamera góc rộng: 200MPCamera Tele (5x): 50MPCamera Tele (3x): 10MP\nCamera trước: 12MP\nChipset: Snapdragon 8 Elite Gen 5 dành cho Galaxy (3nm)\nCông nghệ NFC: Có\nDung lượng RAM: 12 GB\nBộ nhớ trong: 512 GB\nPin: 5000 mAh\nThẻ SIM: 2 Nano-SIM + eSIM\nĐộ phân giải màn hình: 3120 x 1440 pixels (Quad HD+)\nTính năng màn hình: Tần số quét: 1-120HzĐộ sáng tối đa: 2600 nits",
+      "summary": "",
+      "category": "Điện thoại",
+      "price": 38990000.0,
+      "brand": "Samsung",
+      "promotion": 9,
+      "created_at": "2026-03-26T22:31:52.296053"
+    }
+  ],
+  "product_images": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-6.jpg"
+    },
+    {
+      "id": 2,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-13.jpg"
+    },
+    {
+      "id": 3,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 4,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-8.jpg"
+    },
+    {
+      "id": 5,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x8d-3_1.jpg"
+    },
+    {
+      "id": 6,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-10.jpg"
+    },
+    {
+      "id": 7,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-2.jpg"
+    },
+    {
+      "id": 8,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x8d-2_1.jpg"
+    },
+    {
+      "id": 9,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x8d-1_1.jpg"
+    },
+    {
+      "id": 10,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d.jpg"
+    },
+    {
+      "id": 11,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-5.jpg"
+    },
+    {
+      "id": 12,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-3.jpg"
+    },
+    {
+      "id": 13,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-12.jpg"
+    },
+    {
+      "id": 14,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-1.jpg"
+    },
+    {
+      "id": 15,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-14.jpg"
+    },
+    {
+      "id": 16,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x8d_1.jpg"
+    },
+    {
+      "id": 17,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x8d-4.jpg"
+    },
+    {
+      "id": 18,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-7.jpg"
+    },
+    {
+      "id": 19,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-9.jpg"
+    },
+    {
+      "id": 20,
+      "product_id": 1,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/h/o/honor-x8d-11.jpg"
+    },
+    {
+      "id": 21,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_23_.png"
+    },
+    {
+      "id": 22,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_15_.png"
+    },
+    {
+      "id": 23,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_5_.png"
+    },
+    {
+      "id": 24,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 25,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-ultra_2__3.png"
+    },
+    {
+      "id": 26,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-ultra_3__3.png"
+    },
+    {
+      "id": 27,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_7_.png"
+    },
+    {
+      "id": 28,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung_galaxy_s25_ultra_-_4.png"
+    },
+    {
+      "id": 29,
+      "product_id": 2,
+      "image_url": "https://img.youtube.com/vi/AaXXgn5xNeY/maxresdefault.jpg"
+    },
+    {
+      "id": 30,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_16_.png"
+    },
+    {
+      "id": 31,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_18_.png"
+    },
+    {
+      "id": 32,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_19_.png"
+    },
+    {
+      "id": 33,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_24_.png"
+    },
+    {
+      "id": 34,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_22_.png"
+    },
+    {
+      "id": 35,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_17_.png"
+    },
+    {
+      "id": 36,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_11_.png"
+    },
+    {
+      "id": 37,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra.png"
+    },
+    {
+      "id": 38,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_9_.png"
+    },
+    {
+      "id": 39,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_25_.png"
+    },
+    {
+      "id": 40,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_4_.png"
+    },
+    {
+      "id": 41,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_8_.png"
+    },
+    {
+      "id": 42,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_2_.png"
+    },
+    {
+      "id": 43,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_14_.png"
+    },
+    {
+      "id": 44,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung_galaxy_s25_ultra_-_1.png"
+    },
+    {
+      "id": 45,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_3_.png"
+    },
+    {
+      "id": 46,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_21_.png"
+    },
+    {
+      "id": 47,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung_galaxy_s25_ultra_-_3.png"
+    },
+    {
+      "id": 48,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-ultra.png"
+    },
+    {
+      "id": 49,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_1_.png"
+    },
+    {
+      "id": 50,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung_galaxy_s25_ultra_-_5.png"
+    },
+    {
+      "id": 51,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-ultra_1__3.png"
+    },
+    {
+      "id": 52,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_12_.png"
+    },
+    {
+      "id": 53,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_20_.png"
+    },
+    {
+      "id": 54,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_10_.png"
+    },
+    {
+      "id": 55,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung_galaxy_s25_ultra_-_2.png"
+    },
+    {
+      "id": 56,
+      "product_id": 2,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s25-utra_13_.png"
+    },
+    {
+      "id": 57,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-5.jpg"
+    },
+    {
+      "id": 58,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-3.jpg"
+    },
+    {
+      "id": 59,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-9.jpg"
+    },
+    {
+      "id": 60,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-4.jpg"
+    },
+    {
+      "id": 61,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-9.jpg"
+    },
+    {
+      "id": 62,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-7.jpg"
+    },
+    {
+      "id": 63,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 64,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang_1.jpg"
+    },
+    {
+      "id": 65,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla.jpg"
+    },
+    {
+      "id": 66,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-3.jpg"
+    },
+    {
+      "id": 67,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-10.jpg"
+    },
+    {
+      "id": 68,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-6.jpg"
+    },
+    {
+      "id": 69,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-5.jpg"
+    },
+    {
+      "id": 70,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-10.jpg"
+    },
+    {
+      "id": 71,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang.jpg"
+    },
+    {
+      "id": 72,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-6.jpg"
+    },
+    {
+      "id": 73,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-xiaomi-17-ultra-4.jpg"
+    },
+    {
+      "id": 74,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-10.jpg"
+    },
+    {
+      "id": 75,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-2.jpg"
+    },
+    {
+      "id": 76,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-xiaomi-17-ultra_1_2.jpg"
+    },
+    {
+      "id": 77,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-7.jpg"
+    },
+    {
+      "id": 78,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-8.jpg"
+    },
+    {
+      "id": 79,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-4.jpg"
+    },
+    {
+      "id": 80,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-2.jpg"
+    },
+    {
+      "id": 81,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-2.jpg"
+    },
+    {
+      "id": 82,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-8.jpg"
+    },
+    {
+      "id": 83,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-9.jpg"
+    },
+    {
+      "id": 84,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-7.jpg"
+    },
+    {
+      "id": 85,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-xiaomi-17-ultra-1.jpg"
+    },
+    {
+      "id": 86,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-2.jpg"
+    },
+    {
+      "id": 87,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-1.jpg"
+    },
+    {
+      "id": 88,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-9.jpg"
+    },
+    {
+      "id": 89,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-4.jpg"
+    },
+    {
+      "id": 90,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-6.jpg"
+    },
+    {
+      "id": 91,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-4.jpg"
+    },
+    {
+      "id": 92,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-5.jpg"
+    },
+    {
+      "id": 93,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-xiaomi-17-ultra.jpg"
+    },
+    {
+      "id": 94,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-3.jpg"
+    },
+    {
+      "id": 95,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-3.jpg"
+    },
+    {
+      "id": 96,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-10.jpg"
+    },
+    {
+      "id": 97,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-trang-1.jpg"
+    },
+    {
+      "id": 98,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-8.jpg"
+    },
+    {
+      "id": 99,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-xanhla-8.jpg"
+    },
+    {
+      "id": 100,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-7.jpg"
+    },
+    {
+      "id": 101,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den.jpg"
+    },
+    {
+      "id": 102,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-1.jpg"
+    },
+    {
+      "id": 103,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-den-6.jpg"
+    },
+    {
+      "id": 104,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-5.jpg"
+    },
+    {
+      "id": 105,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-xiaomi-17-ultra-2.jpg"
+    },
+    {
+      "id": 106,
+      "product_id": 3,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-17-ultra-trang-1.jpg"
+    },
+    {
+      "id": 107,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-6.jpg"
+    },
+    {
+      "id": 108,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-2.jpg"
+    },
+    {
+      "id": 109,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-15.jpg"
+    },
+    {
+      "id": 110,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 111,
+      "product_id": 4,
+      "image_url": "https://img.youtube.com/vi/cRoaCVD3kHs/maxresdefault.jpg"
+    },
+    {
+      "id": 112,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-4.jpg"
+    },
+    {
+      "id": 113,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-5g-4.jpg"
+    },
+    {
+      "id": 114,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-17.jpg"
+    },
+    {
+      "id": 115,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-7.jpg"
+    },
+    {
+      "id": 116,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-13.jpg"
+    },
+    {
+      "id": 117,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-5g-12gb.jpg"
+    },
+    {
+      "id": 118,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-1.jpg"
+    },
+    {
+      "id": 119,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-12.jpg"
+    },
+    {
+      "id": 120,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-3.jpg"
+    },
+    {
+      "id": 121,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-5g.jpg"
+    },
+    {
+      "id": 122,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-10.jpg"
+    },
+    {
+      "id": 123,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-8.jpg"
+    },
+    {
+      "id": 124,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-16.jpg"
+    },
+    {
+      "id": 125,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-5g-1.jpg"
+    },
+    {
+      "id": 126,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-5.jpg"
+    },
+    {
+      "id": 127,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-5g-2.jpg"
+    },
+    {
+      "id": 128,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-11.jpg"
+    },
+    {
+      "id": 129,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-9.jpg"
+    },
+    {
+      "id": 130,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g.jpg"
+    },
+    {
+      "id": 131,
+      "product_id": 4,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15-5g-14.jpg"
+    },
+    {
+      "id": 132,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-4.jpg"
+    },
+    {
+      "id": 133,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-10.jpg"
+    },
+    {
+      "id": 134,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-21.jpg"
+    },
+    {
+      "id": 135,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 136,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-19.jpg"
+    },
+    {
+      "id": 137,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-24.jpg"
+    },
+    {
+      "id": 138,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-26.jpg"
+    },
+    {
+      "id": 139,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-f-5g-1.jpg"
+    },
+    {
+      "id": 140,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-f-5g-6.jpg"
+    },
+    {
+      "id": 141,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-8.jpg"
+    },
+    {
+      "id": 142,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-23.jpg"
+    },
+    {
+      "id": 143,
+      "product_id": 5,
+      "image_url": "https://img.youtube.com/vi/CY-yBdgQMnM/maxresdefault.jpg"
+    },
+    {
+      "id": 144,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-f-5g-5.jpg"
+    },
+    {
+      "id": 145,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-6.jpg"
+    },
+    {
+      "id": 146,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-15.jpg"
+    },
+    {
+      "id": 147,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g.jpg"
+    },
+    {
+      "id": 148,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-16.jpg"
+    },
+    {
+      "id": 149,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-oppo-reno15-f-5g-4.jpg"
+    },
+    {
+      "id": 150,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-25.jpg"
+    },
+    {
+      "id": 151,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-13.jpg"
+    },
+    {
+      "id": 152,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-12.jpg"
+    },
+    {
+      "id": 153,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-20.jpg"
+    },
+    {
+      "id": 154,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-1.jpg"
+    },
+    {
+      "id": 155,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-2.jpg"
+    },
+    {
+      "id": 156,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-17.jpg"
+    },
+    {
+      "id": 157,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-18.jpg"
+    },
+    {
+      "id": 158,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-3.jpg"
+    },
+    {
+      "id": 159,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-11.jpg"
+    },
+    {
+      "id": 160,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-14.jpg"
+    },
+    {
+      "id": 161,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-5.jpg"
+    },
+    {
+      "id": 162,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-9.jpg"
+    },
+    {
+      "id": 163,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-22.jpg"
+    },
+    {
+      "id": 164,
+      "product_id": 5,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-reno15f-5g-7.jpg"
+    },
+    {
+      "id": 165,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/u/mua-redmi-note-14-pro-plus-5g-gia-re.jpg"
+    },
+    {
+      "id": 166,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 167,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/a/m/am-thanh-xiaomi-note-14-pro-plus-5g-cao-cap.jpg"
+    },
+    {
+      "id": 168,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/man-hinh-dien-thoai-xiaomi-redmi-note-14-pro-plus-6-67inch.jpg"
+    },
+    {
+      "id": 169,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi_redmi_note_14_pro_plus_5g_8gb_256gb_-_2.png"
+    },
+    {
+      "id": 170,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi_redmi_note_14_pro_plus_5g_8gb_256gb_-_4.png"
+    },
+    {
+      "id": 171,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi_redmi_note_14_pro_plus_5g_8gb_256gb_-_1.png"
+    },
+    {
+      "id": 172,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi_redmi_note_14_pro_plus_5g_8gb_256gb_-_3.png"
+    },
+    {
+      "id": 173,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/h/thiet-ke-mat-lung-xiaomi-redmi-note-14-5g-pro-plus-chinh-hang.jpg"
+    },
+    {
+      "id": 174,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-redmi-note-14-pro-plus-50mp.jpg"
+    },
+    {
+      "id": 175,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi_redmi_note_14_pro_plus_5g_8gb_256gb_-_5.png"
+    },
+    {
+      "id": 176,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/redmi-note-14-pro-plus-den-man-hinh-amoled.jpg"
+    },
+    {
+      "id": 177,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-redmi-note-14-pro-plus-den.png"
+    },
+    {
+      "id": 178,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/man-hinh-note-14-pro-plus-5g-6-67inch.jpg"
+    },
+    {
+      "id": 179,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/h/thiet-ke-dien-thoai-xiaomi-redmi-note-14-pro-plus-cac-nut-nhan-hien-dai.jpg"
+    },
+    {
+      "id": 180,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-redmi-note-14-pro-plus-1.jpg"
+    },
+    {
+      "id": 181,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/redmi-note-14-pro-plus-5g-camera.jpg"
+    },
+    {
+      "id": 182,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-note-14-pro-plus-chinh-hang.jpg"
+    },
+    {
+      "id": 183,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/c/a/camera-truoc-redmi-note-14-pro-plus-5g.jpg"
+    },
+    {
+      "id": 184,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/redmi-note-14-pro-plus-xanh.jpg"
+    },
+    {
+      "id": 185,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-note-14-pro-plus-chinh-hang-thiet-ke-vien-may.jpg"
+    },
+    {
+      "id": 186,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/redmi-note-14-pro-plus-gia-re-nhat-2025.jpg"
+    },
+    {
+      "id": 187,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/redmi-note-14-pro-plus-man-hinh-amoled-fhd.jpg"
+    },
+    {
+      "id": 188,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-redmi-note-14-pro-plus-5g-gia-re-thiet-ke-dep.jpg"
+    },
+    {
+      "id": 189,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-redmi-note-14-pro-plus.jpg"
+    },
+    {
+      "id": 190,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/h/thiet-ke-vien-may-redmi-note-14-pro-plus-chinh-hang.jpg"
+    },
+    {
+      "id": 191,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-redmi-note-14-pro-plus-tim.png"
+    },
+    {
+      "id": 192,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/may-note-14-pro-plus-5g-den-chinh-hang.jpg"
+    },
+    {
+      "id": 193,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/man-hinh-dien-thoai-xiaomi-note-14-pro-plus-5g-chinh-hang.jpg"
+    },
+    {
+      "id": 194,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/redmi-note-14-pro-plus-5g-_en-vien-kim-loai.jpg"
+    },
+    {
+      "id": 195,
+      "product_id": 6,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/r/e/redmi-note-14-pro-plus-5g-vien-kim-loai-tot.jpg"
+    },
+    {
+      "id": 196,
+      "product_id": 6,
+      "image_url": "https://img.youtube.com/vi/YAXh1ca0i-k/maxresdefault.jpg"
+    },
+    {
+      "id": 197,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 198,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_12_.png"
+    },
+    {
+      "id": 199,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_11_.png"
+    },
+    {
+      "id": 200,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_15_.png"
+    },
+    {
+      "id": 201,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_10_.png"
+    },
+    {
+      "id": 202,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_18_.png"
+    },
+    {
+      "id": 203,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_14_.png"
+    },
+    {
+      "id": 204,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/techno-pova-7-1.jpg"
+    },
+    {
+      "id": 205,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/techno-pova-7-2.jpg"
+    },
+    {
+      "id": 206,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_21_.png"
+    },
+    {
+      "id": 207,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_20_.png"
+    },
+    {
+      "id": 208,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_13_.png"
+    },
+    {
+      "id": 209,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/techno-pova-7.jpg"
+    },
+    {
+      "id": 210,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_5_.png"
+    },
+    {
+      "id": 211,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/techno-pova-7-4.jpg"
+    },
+    {
+      "id": 212,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_4_.png"
+    },
+    {
+      "id": 213,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/techno-pova-7-3.jpg"
+    },
+    {
+      "id": 214,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_3_.png"
+    },
+    {
+      "id": 215,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_8_.png"
+    },
+    {
+      "id": 216,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_23_.png"
+    },
+    {
+      "id": 217,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_16_.png"
+    },
+    {
+      "id": 218,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_6_.png"
+    },
+    {
+      "id": 219,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_19_.png"
+    },
+    {
+      "id": 220,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_22_.png"
+    },
+    {
+      "id": 221,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_7_.png"
+    },
+    {
+      "id": 222,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_9_.png"
+    },
+    {
+      "id": 223,
+      "product_id": 7,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7-256gb_17_.png"
+    },
+    {
+      "id": 224,
+      "product_id": 8,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-find-n6-0.jpg"
+    },
+    {
+      "id": 225,
+      "product_id": 8,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 226,
+      "product_id": 8,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/o/p/oppo-find-n6-titan-0.jpg"
+    },
+    {
+      "id": 227,
+      "product_id": 8,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/k/s/ksp.jpg"
+    },
+    {
+      "id": 228,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a17-5g-1.jpg"
+    },
+    {
+      "id": 229,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a17-5g_1.jpg"
+    },
+    {
+      "id": 230,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 231,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-7.jpg"
+    },
+    {
+      "id": 232,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-6.jpg"
+    },
+    {
+      "id": 233,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-2.jpg"
+    },
+    {
+      "id": 234,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-5.jpg"
+    },
+    {
+      "id": 235,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-1.jpg"
+    },
+    {
+      "id": 236,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-6.jpg"
+    },
+    {
+      "id": 237,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-8.jpg"
+    },
+    {
+      "id": 238,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-3.jpg"
+    },
+    {
+      "id": 239,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-2.jpg"
+    },
+    {
+      "id": 240,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-2.jpg"
+    },
+    {
+      "id": 241,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-3.jpg"
+    },
+    {
+      "id": 242,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-7.jpg"
+    },
+    {
+      "id": 243,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-3.jpg"
+    },
+    {
+      "id": 244,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-4.jpg"
+    },
+    {
+      "id": 245,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray.jpg"
+    },
+    {
+      "id": 246,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue.jpg"
+    },
+    {
+      "id": 247,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-8.jpg"
+    },
+    {
+      "id": 248,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-4.jpg"
+    },
+    {
+      "id": 249,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a17-5g-3.jpg"
+    },
+    {
+      "id": 250,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a17-5g-2.jpg"
+    },
+    {
+      "id": 251,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-7.jpg"
+    },
+    {
+      "id": 252,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-5.jpg"
+    },
+    {
+      "id": 253,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-gray-6.jpg"
+    },
+    {
+      "id": 254,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back.jpg"
+    },
+    {
+      "id": 255,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-8.jpg"
+    },
+    {
+      "id": 256,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-4.jpg"
+    },
+    {
+      "id": 257,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a17-5g-4.jpg"
+    },
+    {
+      "id": 258,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-1.jpg"
+    },
+    {
+      "id": 259,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-blue-5.jpg"
+    },
+    {
+      "id": 260,
+      "product_id": 9,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a17-5g-back-1.jpg"
+    },
+    {
+      "id": 261,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 262,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_3_.png"
+    },
+    {
+      "id": 263,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_17_.png"
+    },
+    {
+      "id": 264,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_4_.png"
+    },
+    {
+      "id": 265,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_15_.png"
+    },
+    {
+      "id": 266,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-techno-pova-7_1.jpg"
+    },
+    {
+      "id": 267,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_20_.png"
+    },
+    {
+      "id": 268,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_6_.png"
+    },
+    {
+      "id": 269,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-techno-pova-7.jpg"
+    },
+    {
+      "id": 270,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_14_.png"
+    },
+    {
+      "id": 271,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_1_.png"
+    },
+    {
+      "id": 272,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_5_.png"
+    },
+    {
+      "id": 273,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_19_.png"
+    },
+    {
+      "id": 274,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_13_.png"
+    },
+    {
+      "id": 275,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_8_.png"
+    },
+    {
+      "id": 276,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_16_.png"
+    },
+    {
+      "id": 277,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_7_.png"
+    },
+    {
+      "id": 278,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_2_.png"
+    },
+    {
+      "id": 279,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-techno-pova-7-3.jpg"
+    },
+    {
+      "id": 280,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-techno-pova-7-4.jpg"
+    },
+    {
+      "id": 281,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_12_.png"
+    },
+    {
+      "id": 282,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_11_.png"
+    },
+    {
+      "id": 283,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_9_.png"
+    },
+    {
+      "id": 284,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7.png"
+    },
+    {
+      "id": 285,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_18_.png"
+    },
+    {
+      "id": 286,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-tecno-pova-7_10_.png"
+    },
+    {
+      "id": 287,
+      "product_id": 10,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-techno-pova-7-2.jpg"
+    },
+    {
+      "id": 288,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-6_2.jpg"
+    },
+    {
+      "id": 289,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-1_4.jpg"
+    },
+    {
+      "id": 290,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-5_4.jpg"
+    },
+    {
+      "id": 291,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-4_3.jpg"
+    },
+    {
+      "id": 292,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 293,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-6_1.jpg"
+    },
+    {
+      "id": 294,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-2_1.jpg"
+    },
+    {
+      "id": 295,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-honor-x9d-12gb-512gb.jpg"
+    },
+    {
+      "id": 296,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-3_3.jpg"
+    },
+    {
+      "id": 297,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-3_1.jpg"
+    },
+    {
+      "id": 298,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-honor-x9d-12gb-512gb-1_1.jpg"
+    },
+    {
+      "id": 299,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-4_2.jpg"
+    },
+    {
+      "id": 300,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-4_4.jpg"
+    },
+    {
+      "id": 301,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d_4.jpg"
+    },
+    {
+      "id": 302,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-11_2.jpg"
+    },
+    {
+      "id": 303,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d_3.jpg"
+    },
+    {
+      "id": 304,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-6_3.jpg"
+    },
+    {
+      "id": 305,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-8_2.jpg"
+    },
+    {
+      "id": 306,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-11_1.jpg"
+    },
+    {
+      "id": 307,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-10_1.jpg"
+    },
+    {
+      "id": 308,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-7_4.jpg"
+    },
+    {
+      "id": 309,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-1_5.jpg"
+    },
+    {
+      "id": 310,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-honor-x9d-12gb-512gb-3.jpg"
+    },
+    {
+      "id": 311,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-5_5.jpg"
+    },
+    {
+      "id": 312,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-honor-x9d-12gb-512gb-4.jpg"
+    },
+    {
+      "id": 313,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-3_5.jpg"
+    },
+    {
+      "id": 314,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-9_1.jpg"
+    },
+    {
+      "id": 315,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-6_4.jpg"
+    },
+    {
+      "id": 316,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-7_2.jpg"
+    },
+    {
+      "id": 317,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-honor-x9d-12gb-512gb-2.jpg"
+    },
+    {
+      "id": 318,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-3_4.jpg"
+    },
+    {
+      "id": 319,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-8_1.jpg"
+    },
+    {
+      "id": 320,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-7_3.jpg"
+    },
+    {
+      "id": 321,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-5_3.jpg"
+    },
+    {
+      "id": 322,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-10_2.jpg"
+    },
+    {
+      "id": 323,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-1_3.jpg"
+    },
+    {
+      "id": 324,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-2_4.jpg"
+    },
+    {
+      "id": 325,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-2_3.jpg"
+    },
+    {
+      "id": 326,
+      "product_id": 11,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-honor-x9d-2_5.jpg"
+    },
+    {
+      "id": 327,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/n/o/nothing_phone_2a_plus_12gb_256gb_-_3.png"
+    },
+    {
+      "id": 328,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/n/o/nothing_phone_2a_plus_12gb_256gb_-_1.png"
+    },
+    {
+      "id": 329,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/n/o/nothing_phone_2a_plus_12gb_256gb_-_4.png"
+    },
+    {
+      "id": 330,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 331,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-nothing-phone-2a-plus_3_.png"
+    },
+    {
+      "id": 332,
+      "product_id": 12,
+      "image_url": "https://img.youtube.com/vi/qygNcvRF9S4/maxresdefault.jpg"
+    },
+    {
+      "id": 333,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-nothing-phone-2a-plus_2_.png"
+    },
+    {
+      "id": 334,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/n/o/nothing_phone_2a_plus_12gb_256gb_-_2.png"
+    },
+    {
+      "id": 335,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-nothing-phone-2a-plus_5_.png"
+    },
+    {
+      "id": 336,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-nothing-phone-2a-plus_4_.png"
+    },
+    {
+      "id": 337,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-nothing-phone-2a-plus_1_.png"
+    },
+    {
+      "id": 338,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/n/o/nothing_phone_2a_plus_12gb_256gb_-_5.png"
+    },
+    {
+      "id": 339,
+      "product_id": 12,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-nothing-phone-2a-plus.png"
+    },
+    {
+      "id": 340,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-19.jpg"
+    },
+    {
+      "id": 341,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-28.jpg"
+    },
+    {
+      "id": 342,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-16.jpg"
+    },
+    {
+      "id": 343,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-9.jpg"
+    },
+    {
+      "id": 344,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-24.jpg"
+    },
+    {
+      "id": 345,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 346,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26.jpg"
+    },
+    {
+      "id": 347,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-8.jpg"
+    },
+    {
+      "id": 348,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-14.jpg"
+    },
+    {
+      "id": 349,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-7.jpg"
+    },
+    {
+      "id": 350,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-13.jpg"
+    },
+    {
+      "id": 351,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-32.jpg"
+    },
+    {
+      "id": 352,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-21.jpg"
+    },
+    {
+      "id": 353,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-38.jpg"
+    },
+    {
+      "id": 354,
+      "product_id": 13,
+      "image_url": "https://img.youtube.com/vi/tDlZhAC7vj0/maxresdefault.jpg"
+    },
+    {
+      "id": 355,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-3.jpg"
+    },
+    {
+      "id": 356,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-2.jpg"
+    },
+    {
+      "id": 357,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-22.jpg"
+    },
+    {
+      "id": 358,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-26.jpg"
+    },
+    {
+      "id": 359,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-18.jpg"
+    },
+    {
+      "id": 360,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-35.jpg"
+    },
+    {
+      "id": 361,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-27.jpg"
+    },
+    {
+      "id": 362,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-23.jpg"
+    },
+    {
+      "id": 363,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-39.jpg"
+    },
+    {
+      "id": 364,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-4.jpg"
+    },
+    {
+      "id": 365,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-11.jpg"
+    },
+    {
+      "id": 366,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-34.jpg"
+    },
+    {
+      "id": 367,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-30.jpg"
+    },
+    {
+      "id": 368,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-17.jpg"
+    },
+    {
+      "id": 369,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-6.jpg"
+    },
+    {
+      "id": 370,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-37.jpg"
+    },
+    {
+      "id": 371,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-10.jpg"
+    },
+    {
+      "id": 372,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-5.jpg"
+    },
+    {
+      "id": 373,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-15.jpg"
+    },
+    {
+      "id": 374,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-1.jpg"
+    },
+    {
+      "id": 375,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-29.jpg"
+    },
+    {
+      "id": 376,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-20.jpg"
+    },
+    {
+      "id": 377,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-31.jpg"
+    },
+    {
+      "id": 378,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-33.jpg"
+    },
+    {
+      "id": 379,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-25.jpg"
+    },
+    {
+      "id": 380,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-12.jpg"
+    },
+    {
+      "id": 381,
+      "product_id": 13,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-36.jpg"
+    },
+    {
+      "id": 382,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-26.jpg"
+    },
+    {
+      "id": 383,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-23.jpg"
+    },
+    {
+      "id": 384,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 385,
+      "product_id": 14,
+      "image_url": "https://img.youtube.com/vi/kefzNWEZG4k/maxresdefault.jpg"
+    },
+    {
+      "id": 386,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-29.jpg"
+    },
+    {
+      "id": 387,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-9.jpg"
+    },
+    {
+      "id": 388,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-5.jpg"
+    },
+    {
+      "id": 389,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-6.jpg"
+    },
+    {
+      "id": 390,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-22.jpg"
+    },
+    {
+      "id": 391,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-41.jpg"
+    },
+    {
+      "id": 392,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-31.jpg"
+    },
+    {
+      "id": 393,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-39.jpg"
+    },
+    {
+      "id": 394,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-13.jpg"
+    },
+    {
+      "id": 395,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-27.jpg"
+    },
+    {
+      "id": 396,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-16.jpg"
+    },
+    {
+      "id": 397,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-36.jpg"
+    },
+    {
+      "id": 398,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-34.jpg"
+    },
+    {
+      "id": 399,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-19.jpg"
+    },
+    {
+      "id": 400,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-25.jpg"
+    },
+    {
+      "id": 401,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-30.jpg"
+    },
+    {
+      "id": 402,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-12.jpg"
+    },
+    {
+      "id": 403,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-35.jpg"
+    },
+    {
+      "id": 404,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-3.jpg"
+    },
+    {
+      "id": 405,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-2.jpg"
+    },
+    {
+      "id": 406,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-7.jpg"
+    },
+    {
+      "id": 407,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-8.jpg"
+    },
+    {
+      "id": 408,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra.jpg"
+    },
+    {
+      "id": 409,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-37.jpg"
+    },
+    {
+      "id": 410,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-1.jpg"
+    },
+    {
+      "id": 411,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-4.jpg"
+    },
+    {
+      "id": 412,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-32.jpg"
+    },
+    {
+      "id": 413,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-40.jpg"
+    },
+    {
+      "id": 414,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-38.jpg"
+    },
+    {
+      "id": 415,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-18.jpg"
+    },
+    {
+      "id": 416,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-21.jpg"
+    },
+    {
+      "id": 417,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-14.jpg"
+    },
+    {
+      "id": 418,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-11.jpg"
+    },
+    {
+      "id": 419,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-24.jpg"
+    },
+    {
+      "id": 420,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-43.jpg"
+    },
+    {
+      "id": 421,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-17.jpg"
+    },
+    {
+      "id": 422,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-10.jpg"
+    },
+    {
+      "id": 423,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-15.jpg"
+    },
+    {
+      "id": 424,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-42.jpg"
+    },
+    {
+      "id": 425,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-28.jpg"
+    },
+    {
+      "id": 426,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-33.jpg"
+    },
+    {
+      "id": 427,
+      "product_id": 14,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-20.jpg"
+    },
+    {
+      "id": 428,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-poco-x8-pro-max-4.jpg"
+    },
+    {
+      "id": 429,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-poco-x8-pro-max-1.jpg"
+    },
+    {
+      "id": 430,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-poco-x8-pro-max-5.jpg"
+    },
+    {
+      "id": 431,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-poco-x8-pro-max.jpg"
+    },
+    {
+      "id": 432,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-poco-x8-pro-max_2.jpg"
+    },
+    {
+      "id": 433,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-poco-x8-pro-max-2.jpg"
+    },
+    {
+      "id": 434,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-poco-x8-pro-max-2.jpg"
+    },
+    {
+      "id": 435,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 436,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-poco-x8-pro-max-4.jpg"
+    },
+    {
+      "id": 437,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-poco-x8-pro-max-3.jpg"
+    },
+    {
+      "id": 438,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-xiaomi-poco-x8-pro-max-3.jpg"
+    },
+    {
+      "id": 439,
+      "product_id": 15,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/x/i/xiaomi-poco-x8-pro-max-1.jpg"
+    },
+    {
+      "id": 440,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-8.jpg"
+    },
+    {
+      "id": 441,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 442,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-5.jpg"
+    },
+    {
+      "id": 443,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-4.jpg"
+    },
+    {
+      "id": 444,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green.jpg"
+    },
+    {
+      "id": 445,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-5.jpg"
+    },
+    {
+      "id": 446,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-6.jpg"
+    },
+    {
+      "id": 447,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-4.jpg"
+    },
+    {
+      "id": 448,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-1.jpg"
+    },
+    {
+      "id": 449,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-7.jpg"
+    },
+    {
+      "id": 450,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-7.jpg"
+    },
+    {
+      "id": 451,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-2.jpg"
+    },
+    {
+      "id": 452,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-3.jpg"
+    },
+    {
+      "id": 453,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-4.jpg"
+    },
+    {
+      "id": 454,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-5.jpg"
+    },
+    {
+      "id": 455,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-1.jpg"
+    },
+    {
+      "id": 456,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black.jpg"
+    },
+    {
+      "id": 457,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a07-1.jpg"
+    },
+    {
+      "id": 458,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-2.jpg"
+    },
+    {
+      "id": 459,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a07-2.jpg"
+    },
+    {
+      "id": 460,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-1.jpg"
+    },
+    {
+      "id": 461,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-8.jpg"
+    },
+    {
+      "id": 462,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-6.jpg"
+    },
+    {
+      "id": 463,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-3.jpg"
+    },
+    {
+      "id": 464,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a07.jpg"
+    },
+    {
+      "id": 465,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-3.jpg"
+    },
+    {
+      "id": 466,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-2.jpg"
+    },
+    {
+      "id": 467,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a07-4.jpg"
+    },
+    {
+      "id": 468,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet.jpg"
+    },
+    {
+      "id": 469,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/l/slider-samsung-galaxy-a07-3.jpg"
+    },
+    {
+      "id": 470,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-black-6.jpg"
+    },
+    {
+      "id": 471,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-green-7.jpg"
+    },
+    {
+      "id": 472,
+      "product_id": 16,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-a07-violet-8.jpg"
+    },
+    {
+      "id": 473,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-3_1.jpg"
+    },
+    {
+      "id": 474,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-38_1.jpg"
+    },
+    {
+      "id": 475,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-43_1.jpg"
+    },
+    {
+      "id": 476,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-33_1.jpg"
+    },
+    {
+      "id": 477,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-34_1.jpg"
+    },
+    {
+      "id": 478,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-17_1.jpg"
+    },
+    {
+      "id": 479,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-10_1.jpg"
+    },
+    {
+      "id": 480,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-9_1.jpg"
+    },
+    {
+      "id": 481,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-25_1.jpg"
+    },
+    {
+      "id": 482,
+      "product_id": 17,
+      "image_url": "https://img.youtube.com/vi/kefzNWEZG4k/maxresdefault.jpg"
+    },
+    {
+      "id": 483,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/358x/media/wysiwyg/placehoder.png"
+    },
+    {
+      "id": 484,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-36_1.jpg"
+    },
+    {
+      "id": 485,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-24_1.jpg"
+    },
+    {
+      "id": 486,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-40_1.jpg"
+    },
+    {
+      "id": 487,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-37_1.jpg"
+    },
+    {
+      "id": 488,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-14_1.jpg"
+    },
+    {
+      "id": 489,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-23_1.jpg"
+    },
+    {
+      "id": 490,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-26_1.jpg"
+    },
+    {
+      "id": 491,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-18_1.jpg"
+    },
+    {
+      "id": 492,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-19_1.jpg"
+    },
+    {
+      "id": 493,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-7_1.jpg"
+    },
+    {
+      "id": 494,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-41_1.jpg"
+    },
+    {
+      "id": 495,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-15_1.jpg"
+    },
+    {
+      "id": 496,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-21_1.jpg"
+    },
+    {
+      "id": 497,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-6_1.jpg"
+    },
+    {
+      "id": 498,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-5_1.jpg"
+    },
+    {
+      "id": 499,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-30_1.jpg"
+    },
+    {
+      "id": 500,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-35_1.jpg"
+    },
+    {
+      "id": 501,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra_1.jpg"
+    },
+    {
+      "id": 502,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-1_1.jpg"
+    },
+    {
+      "id": 503,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-31_1.jpg"
+    },
+    {
+      "id": 504,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-27_1.jpg"
+    },
+    {
+      "id": 505,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-28_1.jpg"
+    },
+    {
+      "id": 506,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-16_1.jpg"
+    },
+    {
+      "id": 507,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-12_1.jpg"
+    },
+    {
+      "id": 508,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-42_1.jpg"
+    },
+    {
+      "id": 509,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-4_1.jpg"
+    },
+    {
+      "id": 510,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-39_1.jpg"
+    },
+    {
+      "id": 511,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-11_1.jpg"
+    },
+    {
+      "id": 512,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-20_1.jpg"
+    },
+    {
+      "id": 513,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-22_1.jpg"
+    },
+    {
+      "id": 514,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-29_1.jpg"
+    },
+    {
+      "id": 515,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-2_1.jpg"
+    },
+    {
+      "id": 516,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-32_1.jpg"
+    },
+    {
+      "id": 517,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-8_1.jpg"
+    },
+    {
+      "id": 518,
+      "product_id": 17,
+      "image_url": "https://cdn2.cellphones.com.vn/x/media/catalog/product/s/a/samsung-galaxy-s26-ultra-13_1.jpg"
+    }
+  ],
+  "inventory": [
+    {
+      "product_id": 1,
+      "quantity": 10
+    },
+    {
+      "product_id": 2,
+      "quantity": 10
+    },
+    {
+      "product_id": 3,
+      "quantity": 10
+    },
+    {
+      "product_id": 4,
+      "quantity": 10
+    },
+    {
+      "product_id": 5,
+      "quantity": 10
+    },
+    {
+      "product_id": 6,
+      "quantity": 10
+    },
+    {
+      "product_id": 7,
+      "quantity": 10
+    },
+    {
+      "product_id": 8,
+      "quantity": 10
+    },
+    {
+      "product_id": 9,
+      "quantity": 10
+    },
+    {
+      "product_id": 10,
+      "quantity": 10
+    },
+    {
+      "product_id": 11,
+      "quantity": 10
+    },
+    {
+      "product_id": 12,
+      "quantity": 10
+    },
+    {
+      "product_id": 13,
+      "quantity": 10
+    },
+    {
+      "product_id": 14,
+      "quantity": 10
+    },
+    {
+      "product_id": 15,
+      "quantity": 10
+    },
+    {
+      "product_id": 16,
+      "quantity": 10
+    },
+    {
+      "product_id": 17,
+      "quantity": 10
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "product_id": 2,
+      "feedback": "Samsung Galaxy S25 Ultra 12GB 256GB - (43 đánh giá)",
+      "score": 4,
+      "created_at": "2026-03-26T22:31:52.295661"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "product_id": 6,
+      "feedback": "Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB - (84 đánh giá)",
+      "score": 5,
+      "created_at": "2026-03-26T22:31:52.295899"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "product_id": 7,
+      "feedback": "Tecno Pova 7 8GB 256GB - (7 đánh giá)",
+      "score": 4,
+      "created_at": "2026-03-26T22:31:52.295916"
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "product_id": 8,
+      "feedback": "OPPO Find N6 16GB 512GB - (1 đánh giá)",
+      "score": 5,
+      "created_at": "2026-03-26T22:31:52.295925"
+    },
+    {
+      "id": 5,
+      "user_id": 1,
+      "product_id": 9,
+      "feedback": "Samsung Galaxy A17 5G 8GB 128GB - (1 đánh giá)",
+      "score": 5,
+      "created_at": "2026-03-26T22:31:52.295941"
+    },
+    {
+      "id": 6,
+      "user_id": 1,
+      "product_id": 10,
+      "feedback": "Tecno Pova 7 8GB 128GB - (9 đánh giá)",
+      "score": 4,
+      "created_at": "2026-03-26T22:31:52.295957"
+    },
+    {
+      "id": 7,
+      "user_id": 1,
+      "product_id": 11,
+      "feedback": "HONOR X9d 12GB 512GB - (3 đánh giá)",
+      "score": 5,
+      "created_at": "2026-03-26T22:31:52.295976"
+    },
+    {
+      "id": 8,
+      "user_id": 1,
+      "product_id": 12,
+      "feedback": "Nothing Phone 2A Plus 5G 12GB 256GB - (6 đánh giá)",
+      "score": 4,
+      "created_at": "2026-03-26T22:31:52.295988"
+    },
+    {
+      "id": 9,
+      "user_id": 1,
+      "product_id": 14,
+      "feedback": "Samsung Galaxy S26 Ultra 12GB 256GB - (7 đánh giá)",
+      "score": 5,
+      "created_at": "2026-03-26T22:31:52.296024"
+    },
+    {
+      "id": 10,
+      "user_id": 1,
+      "product_id": 16,
+      "feedback": "Samsung Galaxy A07 4GB 128GB - (3 đánh giá)",
+      "score": 5,
+      "created_at": "2026-03-26T22:31:52.296048"
+    },
+    {
+      "id": 11,
+      "user_id": 1,
+      "product_id": 17,
+      "feedback": "Samsung Galaxy S26 Ultra 12GB 512GB - (2 đánh giá)",
+      "score": 5,
+      "created_at": "2026-03-26T22:31:52.296067"
+    }
+  ]
+}
