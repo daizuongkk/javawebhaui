@@ -165,4 +165,24 @@
 		});
 	}
 
+
+	// Wishlist (đã có)
+	document.querySelectorAll(".add-to-wishlist").forEach(btn => {
+		btn.addEventListener("click", () => {
+			const icon = btn.querySelector("i");
+			btn.classList.toggle("active");
+			icon.classList.toggle("fa-heart");
+			icon.classList.toggle("fa-heart-o");
+		});
+	});
+
+// Compare
+	document.querySelectorAll(".add-to-compare").forEach(btn => {
+		btn.addEventListener("click", () => {
+			btn.classList.toggle("active");
+		});
+	});
+
+
+
 })(jQuery);

@@ -19,7 +19,9 @@ public class User {
 	private String avtUrl;
 	private  String phone;
 	private String email;
-	private Boolean active;
+	private String status;
+	private Boolean verified;
+	private Date lastLogin;
 	private Date createdAt;
 	private Date updatedAt;
 }

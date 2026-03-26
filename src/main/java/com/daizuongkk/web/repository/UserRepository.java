@@ -50,7 +50,9 @@ public class UserRepository {
         user.setLastName(resultSet.getString("last_name"));
         user.setPhone(resultSet.getString("phone"));
         user.setEmail(resultSet.getString("email"));
-        user.setActive(resultSet.getBoolean("active"));
+        user.setStatus(resultSet.getString("status"));
+        user.setVerified(resultSet.getBoolean("verified"));
+        user.setLastLogin(resultSet.getTimestamp("last_login"));
         user.setCreatedAt(resultSet.getTimestamp("created_at"));
         user.setUpdatedAt(resultSet.getTimestamp("updated_at"));
         return user;

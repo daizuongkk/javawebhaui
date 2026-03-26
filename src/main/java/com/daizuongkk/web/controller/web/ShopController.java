@@ -16,11 +16,11 @@ public class ShopController extends HttpServlet {
 
         HttpSession session = request.getSession(false);
 
-        boolean hasAccount = session != null && (session.getAttribute("account") != null || session.getAttribute("user") != null);
+        boolean hasAccount = session != null && (session.getAttribute("account") != null );
         if (!hasAccount) {
-            response.sendRedirect("login");
+            response.sendRedirect(request.getContextPath() + "/login");
             return;
         }
-        request.getRequestDispatcher("views/pages/store.jsp").forward(request, response);
+        response.sendRedirect(request.getContextPath() + "/products");
     }
 }

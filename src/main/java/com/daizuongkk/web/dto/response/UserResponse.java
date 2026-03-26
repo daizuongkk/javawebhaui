@@ -16,6 +16,7 @@ public class UserResponse {
     private String avtUrl;
     private  String phone;
     private String email;
-    private Boolean active;
+    private Boolean verified;
+    private String status;
 
 }

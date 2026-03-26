@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class JDBCUtils {
 
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/hauijavaweb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/ecommerce?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root";
     private static final String PASSWORD = "daizuongkk";
 

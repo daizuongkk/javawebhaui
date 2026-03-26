@@ -12,7 +12,7 @@
 
 <head>
     <meta charset="UTF-8"/>
-    <title>InApp Inventory Dashboard</title>
+    <title>404 - Lỗi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
@@ -36,7 +36,7 @@
             </div>
 
             <h1 class="display-1 fw-bold text-primary mb-2"><%= statusCode == null ? 404 : statusCode %></h1>
-            <h2 class="card-title h4 mb-3"><%= message %></h2>
+<%--            <h2 class="card-title h4 mb-3"><%= message %></h2>--%>
             <p class="text-muted mb-4">Bạn đã đi vào vùng cấm, hãy thoát ra bằng cách bấm nút bên dưới! </p>
 
             <a href="home" class="btn btn-primary">Chạy ngay đi</a>

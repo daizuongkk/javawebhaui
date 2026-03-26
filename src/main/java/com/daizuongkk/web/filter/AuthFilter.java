@@ -6,6 +6,7 @@ import jakarta.servlet.*;
 import jakarta.servlet.annotation.WebFilter;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpSession;
 
 import java.io.IOException;
 
@@ -20,6 +21,12 @@ public class AuthFilter implements Filter {
         HttpServletResponse res = (HttpServletResponse) response;
 
         String uri = req.getRequestURI();
+        boolean isAdminArea = uri.contains("/admin")
+                || uri.contains("/admin-dashboard.jsp")
+                || uri.contains("/users.jsp")
+                || uri.contains("/inventory.jsp")
+                || uri.contains("/reports.jsp")
+                || uri.contains("/create-product.jsp");
 
 
         // các trang KHÔNG cần login
@@ -33,9 +40,10 @@ public class AuthFilter implements Filter {
         }
 
         // check login
-        UserResponse account = (UserResponse) req.getSession().getAttribute("account");
-        if (uri.contains("/admin")) {
-            if (account == null || !account.getRole().equals(Role.ADMIN)) {
+        HttpSession session = req.getSession(false);
+        UserResponse account = session == null ? null : (UserResponse) session.getAttribute("account");
+        if (isAdminArea) {
+            if (account == null || account.getRole() != Role.ADMIN) {
                 res.sendRedirect(req.getContextPath() + "/views/pages/error-page.jsp");
                 return;
             }

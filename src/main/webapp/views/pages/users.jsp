@@ -6,8 +6,6 @@
 <html lang="en">
 
 <head>
-    <title>Admin - Danh Sách Sản Phẩm</title>
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon-32x32.png">
@@ -21,7 +19,7 @@
 <body>
 <div id="overlay" class="overlay"></div>
 <!-- TOPBAR -->
-<%@include file="../commons/admin-header.jsp" %>
+<%@include file="../commons/admin-header.jsp"%>
 
 <!-- SIDEBAR -->
 <%@include file="../commons/admin-sidebar.jsp" %>
@@ -33,11 +31,11 @@
             <div class="col-12">
                 <div class="d-flex justify-content-between align-items-center mb-4">
                     <div class="">
-                        <h1 class="fs-3 mb-1">Danh Sách Sản Phẩm</h1>
-                        <p class="mb-0">Quản Lí Sản Phẩm</p>
+                        <h1 class="fs-3 mb-1">Quản Lí Tài Khoản</h1>
+                        <p class="mb-0">Trang quản lí danh sách tài khoản</p>
                     </div>
                     <div>
-                        <a href="admin?page=add-product" class="btn btn-primary">Thêm Sản Phẩm</a>
+                        <a href="create-product.jsp" class="btn btn-primary">Thêm Người Dùng</a>
                     </div>
                 </div>
             </div>

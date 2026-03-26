@@ -16,7 +16,7 @@
             <ul class="header-links pull-right">
                 <c:choose>
                     <c:when test="${sessionScope.account.role == Role.ADMIN}">
-                        <li><a href="admin/dashboard"><i class="fa fa-user-o"></i>Admin</a></li>
+                        <li><a href="admin"><i class="fa fa-database"></i>Trang Quản Trị</a></li>
                     </c:when>
                 </c:choose>
                 <c:choose>

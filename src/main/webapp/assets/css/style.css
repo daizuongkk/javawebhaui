@@ -90,6 +90,29 @@ ul, ol {
 	Buttons
 \*----------------------------*/
 
+.add-to-wishlist i {
+  transition: 0.2s;
+}
+
+.add-to-wishlist.active i {
+  color: #D10024;
+}
+
+.add-to-compare i {
+  transition: 0.2s;
+}
+.add-to-compare.active i {
+  color: #D10024;
+}
+
+/* Quick view */
+.quick-view i {
+  transition: 0.2s;
+}
+.quick-view.active i {
+  color: #D10024;
+}
+
 .primary-btn {
   display: inline-block;
   padding: 12px 30px;
@@ -977,6 +1000,10 @@ textarea.input {
   border: none;
   -webkit-transition: 0.2s all;
   transition: 0.2s all;
+}
+
+.product .product-body .product-btns>button:active {
+  color: #D10024;
 }
 
 .product .product-body .product-btns>button:hover {

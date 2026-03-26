@@ -14,10 +14,12 @@ public class AdminController extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
        String page =  request.getParameter("page");
-
+       if (page == null) {
+           page = "admin-dashboard";
+       }
 
        switch (page) {
-           case "dashboard":
+           case "admin-dashboard":
                response.sendRedirect("views/pages/admin-dashboard.jsp");
                return;
            case "users":
@@ -29,7 +31,7 @@ public class AdminController extends HttpServlet {
            case "reports":
                response.sendRedirect("views/pages/reports.jsp");
                return;
-           case "add-product":
+           case "create-product":
                response.sendRedirect("views/pages/create-product.jsp");
                return;
            default:

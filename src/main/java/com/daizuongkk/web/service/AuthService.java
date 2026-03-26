@@ -61,7 +61,8 @@ public class AuthService {
                 .avtUrl(user.getAvtUrl())
                 .phone(user.getPhone())
                 .email(user.getEmail())
-                .active(user.getActive())
+                .verified(user.getVerified())
+                .status(user.getStatus())
                 .build();
     }
 

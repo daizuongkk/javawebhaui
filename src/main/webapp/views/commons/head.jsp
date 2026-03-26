@@ -27,11 +27,11 @@
 <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon-16x16.png">
 <link rel="manifest" href="./assets/site.webmanifest">
 
+<%--<script src="https://kit.fontawesome.com/0a5ec8a544.js" crossorigin="anonymous"></script>--%>
 
 <!-- Custom stlylesheet -->
 <link type="text/css" rel="stylesheet" href="assets/css/style.css"/>
 <link type="text/css" rel="stylesheet" href="assets/css/login.css"/>
-
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
