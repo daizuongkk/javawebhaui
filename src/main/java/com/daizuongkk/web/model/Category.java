@@ -22,4 +22,16 @@ public   enum Category {
         }
         return categories;
     }
+
+
+
+    public static String getNameByCode(String category) {
+        for (Category ctgr : Category.values()) {
+        if (ctgr.toString().equals(category)) {}
+                return ctgr.getName();
+            }
+        return category;
+    }
+
+
 }

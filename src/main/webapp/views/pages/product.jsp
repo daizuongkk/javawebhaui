@@ -19,27 +19,8 @@
 <!-- /HEADER -->
 
 <!-- NAVIGATION -->
-<nav id="navigation">
-    <!-- container -->
-    <div class="container">
-        <!-- responsive-nav -->
-        <div id="responsive-nav">
-            <!-- NAV -->
-            <ul class="main-nav nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Hot Deals</a></li>
-                <li><a href="#">Categories</a></li>
-                <li><a href="#">Laptops</a></li>
-                <li><a href="#">Smartphones</a></li>
-                <li><a href="#">Cameras</a></li>
-                <li><a href="#">Accessories</a></li>
-            </ul>
-            <!-- /NAV -->
-        </div>
-        <!-- /responsive-nav -->
-    </div>
-    <!-- /container -->
-</nav>
+<jsp:include page="../commons/navigation.jsp"/>
+
 <!-- /NAVIGATION -->
 
 <!-- BREADCRUMB -->
@@ -179,7 +160,17 @@
 
                     <ul class="product-links">
                         <li>Phân Loại:</li>
-                        <li><a href="#">${product.category}</a></li>
+                        <c:set var="categoryCode" value=""/>
+
+                        <c:forEach var="entry" items="${categories}">
+                            <c:if test="${entry.value == product.category}">
+                                <c:set var="categoryCode" value="${entry.key}"/>
+                            </c:if>
+                        </c:forEach>
+
+                        <a href="shop?category=${categoryCode}">
+                            ${product.category}
+                        </a>
                     </ul>
 
                     <ul class="product-links">

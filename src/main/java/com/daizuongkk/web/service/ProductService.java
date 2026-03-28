@@ -1,6 +1,8 @@
 package com.daizuongkk.web.service;
 
+import com.daizuongkk.web.dto.request.SearchProductRequest;
 import com.daizuongkk.web.dto.response.ProductResponse;
+import com.daizuongkk.web.model.Category;
 import com.daizuongkk.web.model.Product;
 import com.daizuongkk.web.repository.ProductImgRepository;
 import com.daizuongkk.web.repository.ProductRepository;
@@ -87,6 +89,8 @@ public class ProductService {
     private ProductResponse productToProductResponse(Product product) {
         ProductResponse productResponse = this.modelMapper.map(product, ProductResponse.class);
         List<String> imageUrls = productImgRepository.findUrlsByProductId(product.getId());
+      productResponse.setCategory(Category.getNameByCode(product.getCategory()));
+
         productResponse.setImageUrl(imageUrls);
 
         Long reviewScore = reviewRepository.findAverageScoreByProductId(product.getId()).longValue();
@@ -97,4 +101,19 @@ public class ProductService {
 
     }
 
+    public Long countProductsByFilter(SearchProductRequest filters) {
+
+        return productRepository.countByFilter(filters);
+    }
+
+    public List<ProductResponse> getProductsByFilter(int currentPage, int size, SearchProductRequest filters) {
+        List<Product> products = productRepository.findByFilter(currentPage, size, filters);
+        List<ProductResponse> productResponseList = new ArrayList<>();
+
+        for (Product product : products) {
+            productResponseList.add(productToProductResponse(product));
+        }
+        return productResponseList;
+
+    }
 }

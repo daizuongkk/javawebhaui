@@ -4,8 +4,6 @@ import com.daizuongkk.web.dto.response.UserResponse;
 import com.daizuongkk.web.model.Role;
 import com.daizuongkk.web.model.User;
 import com.daizuongkk.web.repository.UserRepository;
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import org.mindrot.jbcrypt.BCrypt;
 
 import java.util.regex.Pattern;
@@ -130,7 +128,6 @@ public class AuthService {
             return BCrypt.checkpw(rawPassword, storedPassword);
         }
 
-        // Backward compatible for old plaintext records.
         return storedPassword.equals(rawPassword);
     }
 

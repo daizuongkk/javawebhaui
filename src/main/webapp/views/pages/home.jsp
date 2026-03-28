@@ -4,38 +4,19 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<c:set var="pageTitle" value="Electro - Welcome"/>
+		<c:set var="pageTitle" value="Electro. - Welcome"/>
 		<%@ include file="../commons/head.jsp" %>
 
 	</head>
 	<body>
-		<!-- HEADER -->
+
+
+	<!-- HEADER -->
 		<%@ include file="../commons/header.jsp" %>		<!-- /HEADER -->
 
 		<!-- NAVIGATION -->
-		<nav id="navigation">
-			<!-- container -->
-			<div class="container">
-				<!-- responsive-nav -->
-				<div id="responsive-nav">
-					<!-- NAV -->
-					<ul class="main-nav nav navbar-nav">
-						<li class="active"><a href="#">Home</a></li>
-						<li><a href="#">Hot Deals</a></li>
-						<li><a href="#">Categories</a></li>
-						<li><a href="#">Laptops</a></li>
-						<li><a href="#">Smartphones</a></li>
-						<li><a href="#">Cameras</a></li>
-						<li><a href="#">Accessories</a></li>
-					</ul>
-					<!-- /NAV -->
-				</div>
-				<!-- /responsive-nav -->
-			</div>
-			<!-- /container -->
-		</nav>
+	<jsp:include page="../commons/navigation.jsp"/>
 		<!-- /NAVIGATION -->
-
 		<!-- SECTION -->
 		<div class="section">
 			<!-- container -->
@@ -100,20 +81,18 @@
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">
-							<h3 class="title">New Products</h3>
+							<h3 class="title">Mới ra mắt</h3>
 							<div class="section-nav">
 								<ul class="section-tab-nav tab-nav">
-									<ul class="section-tab-nav tab-nav">
-										<li class="active"><a data-toggle="tab" href="#tab1">Tất Cả</a></li>
+									<li class="active"><a data-toggle="tab" href="#tab1">Tất Cả</a></li>
 
-										<c:forEach var="category" items="${categories}">
-											<li>
-												<a data-toggle="tab" href="#tab1">
-														${category.value}
-												</a>
-											</li>
-										</c:forEach>
-									</ul>
+									<c:forEach var="category" items="${categories}">
+										<li>
+											<a data-toggle="tab" href="#tab1">
+													${category.value}
+											</a>
+										</li>
+									</c:forEach>
 								</ul>
 							</div>
 						</div>
@@ -730,7 +709,8 @@
 
 		<!-- /FOOTER -->
 
-		<!-- jQuery Plugins -->
+
+	<!-- jQuery Plugins -->
 		<%@ include file="../commons/script.jsp" %>
 
 

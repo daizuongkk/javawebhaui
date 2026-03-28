@@ -9,6 +9,7 @@
 
 <!-- Google font -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 <!-- Bootstrap -->
 <link type="text/css" rel="stylesheet" href="assets/css/bootstrap.min.css"/>

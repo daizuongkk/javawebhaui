@@ -2,6 +2,7 @@ package com.daizuongkk.web.controller.web;
 
 import com.daizuongkk.web.dto.response.ProductResponse;
 import com.daizuongkk.web.dto.response.ReviewResponse;
+import com.daizuongkk.web.model.Category;
 import com.daizuongkk.web.service.ProductService;
 import com.daizuongkk.web.service.ReviewService;
 import com.daizuongkk.web.util.PaginationUtils;
@@ -10,7 +11,6 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import jakarta.servlet.http.HttpSession;
 
 import java.io.IOException;
 import java.util.List;
@@ -52,12 +52,16 @@ public class ProductController extends HttpServlet {
 			return;
 		}
 		ProductResponse product = productService.getProductById(productId);
+
 		if (product == null) {
 			response.sendRedirect(request.getContextPath() + "/home");
 			return;
 		}
 
-		List<ReviewResponse>   reviews = reviewService.getReviewsByProductId(productId, currentPage,3);
+        request.setAttribute("categories", Category.getAlls());
+
+
+        List<ReviewResponse>   reviews = reviewService.getReviewsByProductId(productId, currentPage,3);
 
 		request.setAttribute("product", product);
 

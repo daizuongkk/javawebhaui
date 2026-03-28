@@ -582,6 +582,13 @@ textarea.input {
   visibility: visible;
 }
 
+/* Open cart dropdown when hovering the cart area in header */
+.header-ctn .dropdown:hover > .cart-dropdown,
+.header-ctn .dropdown:focus-within > .cart-dropdown {
+  opacity: 1;
+  visibility: visible;
+}
+
 .cart-dropdown .cart-list {
   max-height: 180px;
   overflow-y: scroll;
@@ -613,7 +620,7 @@ textarea.input {
 
 .cart-dropdown .cart-btns>a {
   display: inline-block;
-  width: calc(50% - 0px);
+  width: calc(100% - 0px);
   padding: 12px;
   background-color: #D10024;
   color: #FFF;
@@ -624,7 +631,7 @@ textarea.input {
 }
 
 .cart-dropdown .cart-btns>a:first-child {
-  margin-right: -4px;
+  /*margin-right: -4px;*/
   background-color: #1e1f29;
 }
 

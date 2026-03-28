@@ -1,6 +1,18 @@
 (function($) {
 	"use strict"
 
+
+	// Open cart modal directly from cart dropdown button.
+	$('#open-cart-modal').on('click', function (e) {
+		e.preventDefault();
+		e.stopPropagation();
+		$('#cart-modal').modal('show');
+	});
+
+	$('#cart-modal').on('shown.bs.modal', function () {
+		$('#myInput').trigger('focus')
+	})
+
 	// Mobile Nav toggle
 	$('.menu-toggle > a').on('click', function (e) {
 		e.preventDefault();
@@ -150,12 +162,12 @@
 	var priceSlider = document.getElementById('price-slider');
 	if (priceSlider) {
 		noUiSlider.create(priceSlider, {
-			start: [1, 999],
+			start: [1, 9999],
 			connect: true,
-			step: 1,
+			step: 10,
 			range: {
 				'min': 1,
-				'max': 999
+				'max': 9999
 			}
 		});
 

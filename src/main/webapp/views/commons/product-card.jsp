@@ -78,7 +78,7 @@
         <div class="product-body">
             <p class="product-category"><c:out value="${product.category}" default="N/A"/></p>
             <h3 class="product-name">
-                <a href="${pageContext.request.contextPath}/products">
+                <a href="${pageContext.request.contextPath}/products?id=${product.id}">
                     <c:out value="${product.name}"/>
                 </a>
             </h3>
