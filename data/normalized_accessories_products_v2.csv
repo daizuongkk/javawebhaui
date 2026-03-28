@@ -1,0 +1,169 @@
+product_id,name,brand,category,price,promotion,created_date,description,detail
+1,Lightning Cable 2m,Apple,"CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",25.0,10,2026-02-24T00:00:00,"Cáp Lightning chính hãng Apple dài 2m, tương thích với iPhone, iPad, AirPods. Tiêu chuẩn MFi, an toàn và bền bỉ.","• Chiều dài: 2 mét
+• Loại kết nối: Lightning (8 pin)
+• Tương thích: iPhone XS/XS Max/XR và mới hơn
+• Chứng chỉ MFi: Có
+• Tốc độ truyền dữ liệu: 480Mbps
+• Tính năng: Hỗ trợ sạc nhanh, chuyển dữ liệu
+• Bảo hành: 12 tháng"
+2,USB-C Fast Charger 65W,Belkin,"CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",59.99,15,2026-02-13T00:00:00,"Bộ sạc nhanh Belkin công suất 65W với cổng USB-C, tương thích với điện thoại Android, tablet, laptop. Công nghệ GaN tiên tiến.","• Công suất: 65W
+• Cổng: 2x USB-C
+• Công nghệ: GaN (Gallium Nitride)
+• Tương thích: Android, Tablet, Laptop
+• Bảo vệ: Quá dòng, quá áp, quá nhiệt
+• Chứng chỉ: FCC, CE, RoHS
+• Bảo hành: 24 tháng"
+3,USB-C Cable 3.1 2m,Anker,"CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",15.99,8,2026-02-25T00:00:00,"Cáp USB-C 3.1 Anker dài 2m, hỗ trợ truyền dữ liệu nhanh 10Gbps và sạc nhanh 100W.","• Chiều dài: 2 mét
+• Chuẩn: USB 3.1 Gen 2
+• Tốc độ truyền: 10Gbps
+• Công suất hỗ trợ: Lên tới 100W
+• Bảo vệ: 10,000 lần uốn cong
+• Vật liệu: Nylon dệt chỉ
+• Bảo hành: 18 tháng"
+4,Super Fast Charger 45W,Samsung,"CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",39.99,12,2026-01-25T00:00:00,"Bộ sạc nhanh Samsung 45W với cổng USB-C, tương thích với Galaxy S series. Sạc đầy pin trong thời gian ngắn.","• Công suất: 45W
+• Cổng: USB-C
+• Tương thích: Galaxy S25, S24, S23 series
+• Chế độ sạc nhanh: Super Fast Charging
+• Bảo vệ: Nhiệt độ, dòng điện, điện áp
+• Chứng chỉ: KC, FCC, CE
+• Bảo hành: 12 tháng"
+5,GaN Charger 120W 4 Port,Baseus,"CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",79.99,20,2026-01-11T00:00:00,"Bộ sạc Baseus GaN công suất 120W với 4 cổng USB-C, sạc tới 4 thiết bị cùng lúc.","• Công suất: 120W
+• Cổng: 4x USB-C
+• Công nghệ: GaN Gallium Nitride
+• Tương thích: Phổ biến tất cả Android, Laptop
+• Tính năng: Sạc 4 thiết bị cùng lúc
+• Bảo vệ: 9 lớp bảo vệ
+• Bảo hành: 24 tháng"
+6,Tempered Glass H+ Pro,Nillkin,DÁN_MÀN_HÌNH_ĐIỆN_THOẠI,12.99,5,2026-01-14T00:00:00,"Kính cường lực Nillkin H+ Pro độ cứng 9H, bảo vệ toàn màn hình, khả năng chống xước cao.","• Độ cứng: 9H
+• Độ dày: 0.33mm
+• Khả năng chuyên sâu ánh sáng xanh: Có
+• Bảo vệ: Góc 2.5D
+• Không ảnh hưởng độ sáng: 100% nhạy cảm cảm ứng
+• Tương thích: iPhone, Samsung, OPPO, Xiaomi
+• Bảo hành: 6 tháng"
+7,Screen Protector Clear 3D,Tech21,DÁN_MÀN_HÌNH_ĐIỆN_THOẠI,19.99,8,2026-01-18T00:00:00,"Miếng dán màn hình Tech21 công nghệ 3D, độ cứng 9H, chống vỡ và chống xước hiệu quả.","• Công nghệ: 3D curved glass
+• Độ cứng: 9H
+• Chống bỏng nước: 100%
+• Khả năng chược xước: Cao
+• Thiết kế: Không viền đen
+• Tương thích: Phổ biến iOS, Android
+• Bảo hành: 12 tháng"
+8,Tempered Glass Premium,ESR,DÁN_MÀN_HÌNH_ĐIỆN_THOẠI,14.99,6,2026-02-20T00:00:00,"Miếng dán kính ESR Premium độ cứng 9H, trong suốt, bảo vệ tốt, dễ lắp đặt.","• Độ cứng: 9H
+• Độ trong suốt: 99%
+• Tương thích: iPhone 15, 14, 13, Samsung S24
+• Lớp phủ: Oleophobic coating
+• Dễ lắp: Có khung căn chỉnh
+• Khả năng bảo vệ: Góc 2.5D
+• Bảo hành: 12 tháng"
+9,AirPods Pro 2nd Gen,Apple,PHỤ_KIỆN_APPLE,299.99,10,2026-03-15T00:00:00,"Tai nghe không dây Apple AirPods Pro thế hệ thứ 2, công nghệ chống ồn chủ động, âm thanh spatial audio 3D.","• Công nghệ chống ồn: Active Noise Cancellation (ANC)
+• Chế độ trong suốt: Adaptive Audio
+• Âm thanh: Spatial Audio với dynamic head tracking
+• Pin: Lên tới 6 giờ (chế độ ANC), 30 giờ với hộp sạc
+• Kết nối: Bluetooth 5.3, Apple H2 chip
+• Tính năng: Cảm biến chạm, phát hiện tai
+• Bảo hành: 12 tháng"
+10,AirTag,Apple,PHỤ_KIỆN_APPLE,29.99,5,2026-02-15T00:00:00,"Thiết bị định vị Apple AirTag, theo dõi vị trí túi, chìa khóa, động vật cưng dễ dàng.","• Công nghệ: Bluetooth LE
+• Phạm vi: Lên tới 120m (không chướng ngại vật)
+• Pin: CR2032 (thay thế dễ)
+• Tính năng: Chế độ Mất Tìm Kiếm, âm thanh cảnh báo
+• Tương thích: iPhone 11 trở lên
+• Chống nước: IPX7
+• Bảo hành: 12 tháng"
+11,Magic Mouse 2,Apple,PHỤ_KIỆN_APPLE,99.99,8,2026-03-19T00:00:00,"Chuột Magic Mouse 2 không dây của Apple, bề mặt touch, pin sạc lâu dài.","• Kiểu: Wireless (Bluetooth)
+• Bề mặt: Multi-touch
+• Pin: Sạc USB-C, thời lượng 1 tháng
+• Tìm kiếm: Sạc 2 phút = dùng 9 ngày
+• Tương thích: Mac, iPad
+• Trọng lượng: Nhẹ, cầm thoải mái
+• Bảo hành: 12 tháng"
+12,Smart Keyboard Folio,Apple,PHỤ_KIỆN_APPLE,179.99,12,2026-03-26T00:00:00,"Bàn phím thông minh Apple Smart Keyboard Folio cho iPad, bảo vệ và tích hợp bàn phím.","• Tương thích: iPad Pro 11-inch, 12.9-inch
+• Loại kết nối: Smart Connector (không cần pin)
+• Phím: Cơ học, hành trình thoải mái
+• Bảo vệ: Bao da tích hợp
+• Trọng lượng: Gọn nhẹ
+• Ngôn ngữ: Tiếng Việt sẵn sàng
+• Bảo hành: 12 tháng"
+13,PowerCore 26800mAh,Anker,PIN_DỰ_PHÒNG,49.99,15,2026-02-09T00:00:00,"Pin sạc dự phòng Anker 26800mAh, sạc nhanh 3 thiết bị cùng lúc, dung lượng lớn.","• Dung lượng: 26800mAh (real capacity)
+• Cổng: 2x USB-A, 1x USB-C input
+• Công suất: 5V/3A per port
+• Tương thích: Điện thoại, tablet, camera
+• Sạc nhanh: Hỗ trợ iPhone Fast Charging
+• Trọng lượng: 520g
+• Bảo hành: 18 tháng"
+14,Mi Power Bank 3 Pro 20000mAh,Xiaomi,PIN_DỰ_PHÒNG,39.99,10,2026-01-08T00:00:00,"Pin sạc Xiaomi 20000mAh, sạc nhanh USB-C 18W, thiết kế nhỏ gọn, pin lâu bền.","• Dung lượng: 20000mAh
+• Cổng: 2x USB-A, 1x USB-C (input/output)
+• Công suất: USB-C 18W sạc nhanh
+• Tương thích: iPhone, Android, Tablet
+• Trọng lượng: 278g
+• LED hiển thị: 4 cấp độ pin
+• Bảo hành: 12 tháng"
+15,25000mAh Fast Charging,Samsung,PIN_DỰ_PHÒNG,59.99,18,2026-02-09T00:00:00,"Pin dự phòng Samsung 25000mAh với công nghệ sạc nhanh super fast, pin bền bỉ.","• Dung lượng: 25000mAh (typ)
+• Sạc nhanh: Super Fast Charging 25W
+• Cổng: USB-C in/out, 2x USB
+• Tương thích: Galaxy series, điện thoại khác
+• Chế độ sạc ngược: Có (Wireless PowerShare)
+• Trọng lượng: 544g
+• Bảo hành: 12 tháng"
+16,Sim 4G Viettel MAX15,Viettel,SIM_5G__SIM_4G__SIM_3G,2.99,0,2026-03-23T00:00:00,"Sim 4G Viettel MAX15 tốc độ cao, gói cước 15k/tháng, miễn phí 4G 90 ngày đầu.","• Nhà mạng: Viettel
+• Công nghệ: 4G LTE
+• Gói cước: MAX15 - 15,000 đồng/tháng
+• Data: 8GB 4G, không giới hạn 3G
+• Cuộc gọi: Gọi trọn gói
+• Ưu đãi: Miễn phí 4G 90 ngày đầu
+• Bảng giá: Hỗ trợ all-in-one"
+17,Sim 5G Mobifone MAX10,Mobifone,SIM_5G__SIM_4G__SIM_3G,2.49,5,2026-02-02T00:00:00,"Sim 5G Mobifone MAX10, tốc độ 5G ultra-fast, gói cước phổ biến 10,000 đồng/tháng.","• Nhà mạng: Mobifone
+• Công nghệ: 5G/4G LTE
+• Gói cước: MAX10 - 10,000 đồng/tháng
+• Data: 5GB 5G, 20GB 4G
+• Tốc độ 5G: Lên tới 1Gbps
+• Miễn phí: 30 ngày gói cước
+• Bảng giá: Hỗ trợ all-in-one"
+18,Sim 5G Vinaphone 4G60,Vinaphone,SIM_5G__SIM_4G__SIM_3G,5.99,8,2026-01-25T00:00:00,"Sim 5G Vinaphone 4G60, tốc độ 5G nhanh, gói cước 60,000 đồng, lợi ích cao.","• Nhà mạng: Vinaphone
+• Công nghệ: 5G/4G LTE
+• Gói cước: 4G60 - 60,000 đồng/tháng
+• Data: 30GB 5G, 30GB 4G, miễn phí data
+• Tốc độ: 5G 1Gbps+, 4G 150Mbps
+• Ngoại quốc: Roaming 150 nước
+• Bảng giá: Hỗ trợ businesshàng tháng"
+19,Ultra microSD 256GB,SanDisk,"THẺ_NHỚ,_USB",34.99,12,2026-03-10T00:00:00,"Thẻ nhớ microSD SanDisk Ultra 256GB, tốc độ đọc 150MB/s, tương thích điện thoại, camera.","• Dung lượng: 256GB
+• Tốc độ đọc: 150MB/s
+• Tốc độ ghi: 90MB/s
+• Chuẩn: microSD UHS-I
+• Chống chịu: Nước, nhiệt, chống từ
+• Bảo hành: Vĩnh viễn
+• Tương thích: Điện thoại Android, camera, drone"
+20,DataTraveler USB 3.0 64GB,Kingston,"THẺ_NHỚ,_USB",15.99,8,2026-03-12T00:00:00,"USB 3.0 Kingston DataTraveler 64GB, tốc độ truyền nhanh, thiết kế nhỏ gọn.","• Dung lượng: 64GB
+• Chuẩn: USB 3.0
+• Tốc độ đọc: 110MB/s
+• Tốc độ ghi: 70MB/s
+• Kết nối: USB 3.0 / 2.0 compatible
+• Thiết kế: Cực nhỏ gọn 46 x 21 x 13 mm
+• Bảo hành: 5 năm"
+21,microSD Card Pro 128GB,Samsung,"THẺ_NHỚ,_USB",24.99,10,2026-01-26T00:00:00,"Thẻ nhớ Samsung Pro Plus 128GB, tốc độ 160MB/s, hỗ trợ 4K video, bền bỉ.","• Dung lượng: 128GB
+• Tốc độ đọc: 160MB/s
+• Tốc độ ghi: 120MB/s
+• Video: Hỗ trợ 4K UHD
+• Độ bền: -13°C đến 85°C
+• Chống chịu: Nước, chống từ trường, chống tác động
+• Bảo hành: 10 năm"
+22,Rugged Armor Case,Spigen,ỐP_LƯNG_ĐIỆN_THOẠI__BAO_DA,18.99,10,2026-02-18T00:00:00,"Ốp lưng Spigen Rugged Armor, bảo vệ toàn diện, chống sốc, thiết kế mỏng nhẹ.","• Chất liệu: TPU + PC hybrid
+• Bảo vệ: Chống sốc lên tới 10ft
+• Thiết kế: Mỏng nhẹ, dễ cất
+• Tương thích: iPhone 15, 14, 13, Samsung S24
+• Cảm ứng: Không ảnh hưởng
+• Khí thải: Thoát khí qua thiết kế
+• Bảo hành: 12 tháng"
+23,Defender Series Case,OtterBox,ỐP_LƯNG_ĐIỆN_THOẠI__BAO_DA,49.99,15,2026-03-16T00:00:00,"Ốp lưng OtterBox Defender, bảo vệ cấp quân đội, chống sốc tối đa, bao da chắc chắn.","• Chất liệu: Polycarbonate + Synthetic rubber
+• Bảo vệ: Cấp quân đội MIL-STD-810G
+• Chống sốc: Lên tới 15ft
+• Bao da: Góc bảo vệ toàn diện
+• Tương thích: iPhone 15 Pro Max, Galaxy S24 Ultra
+• Khiếc: Cắt Precisions để dễ sử dụng
+• Bảo hành: 2 năm"
+24,Silicone Case,Apple,ỐP_LƯNG_ĐIỆN_THOẠI__BAO_DA,39.99,8,2026-03-05T00:00:00,"Ốp lưng Silicone chính hãng Apple, mềm mại, bảo vệ tốt, nhiều màu sắc.","• Chất liệu: Silicone nguyên chất
+• Thiết kế: Vừa vặn hoàn hảo
+• Màu sắc: 12+ tùy chọn
+• Tương thích: iPhone 15, 14, 13 series
+• Bảo vệ: Chống bụi, chống trầy xước
+• Mềm mại: Cảm giác thoải mái khi cầm
+• Bảo hành: 12 tháng"

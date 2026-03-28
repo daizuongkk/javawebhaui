@@ -226,7 +226,7 @@
                                             String details = product.getDetail();
 
                                             if (details != null) {
-                                                String[] lines = details.split("•");
+                                                String[] lines = details.split("-");
                                                 for (String line : lines) {
                                                     String[] parts = line.split(":", 2);
                                                     if (parts.length == 2) {

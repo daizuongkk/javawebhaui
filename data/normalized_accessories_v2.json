@@ -1,0 +1,572 @@
+{
+  "products": [
+    {
+      "name": "Lightning Cable 2m",
+      "description": "Cáp Lightning chính hãng Apple dài 2m, tương thích với iPhone, iPad, AirPods. Tiêu chuẩn MFi, an toàn và bền bỉ.",
+      "detail": "• Chiều dài: 2 mét\n• Loại kết nối: Lightning (8 pin)\n• Tương thích: iPhone XS/XS Max/XR và mới hơn\n• Chứng chỉ MFi: Có\n• Tốc độ truyền dữ liệu: 480Mbps\n• Tính năng: Hỗ trợ sạc nhanh, chuyển dữ liệu\n• Bảo hành: 12 tháng",
+      "summary": "Lightning Cable 2m - Cáp Lightning chính hãng Apple, hỗ trợ sạc và truyền dữ liệu - Giá $25.00",
+      "category": "CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",
+      "price": 25.0,
+      "brand": "Apple",
+      "promotion": 10,
+      "created_date": "2026-02-24T00:00:00"
+    },
+    {
+      "name": "USB-C Fast Charger 65W",
+      "description": "Bộ sạc nhanh Belkin công suất 65W với cổng USB-C, tương thích với điện thoại Android, tablet, laptop. Công nghệ GaN tiên tiến.",
+      "detail": "• Công suất: 65W\n• Cổng: 2x USB-C\n• Công nghệ: GaN (Gallium Nitride)\n• Tương thích: Android, Tablet, Laptop\n• Bảo vệ: Quá dòng, quá áp, quá nhiệt\n• Chứng chỉ: FCC, CE, RoHS\n• Bảo hành: 24 tháng",
+      "summary": "USB-C Fast Charger 65W - Sạc nhanh 65W, 2 cổng USB-C, tương thích đa thiết bị - Giá $59.99",
+      "category": "CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",
+      "price": 59.99,
+      "brand": "Belkin",
+      "promotion": 15,
+      "created_date": "2026-02-13T00:00:00"
+    },
+    {
+      "name": "USB-C Cable 3.1 2m",
+      "description": "Cáp USB-C 3.1 Anker dài 2m, hỗ trợ truyền dữ liệu nhanh 10Gbps và sạc nhanh 100W.",
+      "detail": "• Chiều dài: 2 mét\n• Chuẩn: USB 3.1 Gen 2\n• Tốc độ truyền: 10Gbps\n• Công suất hỗ trợ: Lên tới 100W\n• Bảo vệ: 10,000 lần uốn cong\n• Vật liệu: Nylon dệt chỉ\n• Bảo hành: 18 tháng",
+      "summary": "USB-C Cable 3.1 2m - Cáp USB-C tốc độ 10Gbps, hỗ trợ sạc 100W - Giá $15.99",
+      "category": "CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",
+      "price": 15.99,
+      "brand": "Anker",
+      "promotion": 8,
+      "created_date": "2026-02-25T00:00:00"
+    },
+    {
+      "name": "Super Fast Charger 45W",
+      "description": "Bộ sạc nhanh Samsung 45W với cổng USB-C, tương thích với Galaxy S series. Sạc đầy pin trong thời gian ngắn.",
+      "detail": "• Công suất: 45W\n• Cổng: USB-C\n• Tương thích: Galaxy S25, S24, S23 series\n• Chế độ sạc nhanh: Super Fast Charging\n• Bảo vệ: Nhiệt độ, dòng điện, điện áp\n• Chứng chỉ: KC, FCC, CE\n• Bảo hành: 12 tháng",
+      "summary": "Super Fast Charger 45W - Sạc nhanh 45W cho Galaxy, tương thích Samsung - Giá $39.99",
+      "category": "CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",
+      "price": 39.99,
+      "brand": "Samsung",
+      "promotion": 12,
+      "created_date": "2026-01-25T00:00:00"
+    },
+    {
+      "name": "GaN Charger 120W 4 Port",
+      "description": "Bộ sạc Baseus GaN công suất 120W với 4 cổng USB-C, sạc tới 4 thiết bị cùng lúc.",
+      "detail": "• Công suất: 120W\n• Cổng: 4x USB-C\n• Công nghệ: GaN Gallium Nitride\n• Tương thích: Phổ biến tất cả Android, Laptop\n• Tính năng: Sạc 4 thiết bị cùng lúc\n• Bảo vệ: 9 lớp bảo vệ\n• Bảo hành: 24 tháng",
+      "summary": "GaN Charger 120W 4 Port - Sạc nhanh 120W với 4 cổng USB-C - Giá $79.99",
+      "category": "CÁP,_SẠC_ĐIỆN_THOẠI_IPHONE,_AN",
+      "price": 79.99,
+      "brand": "Baseus",
+      "promotion": 20,
+      "created_date": "2026-01-11T00:00:00"
+    },
+    {
+      "name": "Tempered Glass H+ Pro",
+      "description": "Kính cường lực Nillkin H+ Pro độ cứng 9H, bảo vệ toàn màn hình, khả năng chống xước cao.",
+      "detail": "• Độ cứng: 9H\n• Độ dày: 0.33mm\n• Khả năng chuyên sâu ánh sáng xanh: Có\n• Bảo vệ: Góc 2.5D\n• Không ảnh hưởng độ sáng: 100% nhạy cảm cảm ứng\n• Tương thích: iPhone, Samsung, OPPO, Xiaomi\n• Bảo hành: 6 tháng",
+      "summary": "Tempered Glass H+ Pro - Kính cường lực 9H, chống xước, bảo vệ góc 2.5D - Giá $12.99",
+      "category": "DÁN_MÀN_HÌNH_ĐIỆN_THOẠI",
+      "price": 12.99,
+      "brand": "Nillkin",
+      "promotion": 5,
+      "created_date": "2026-01-14T00:00:00"
+    },
+    {
+      "name": "Screen Protector Clear 3D",
+      "description": "Miếng dán màn hình Tech21 công nghệ 3D, độ cứng 9H, chống vỡ và chống xước hiệu quả.",
+      "detail": "• Công nghệ: 3D curved glass\n• Độ cứng: 9H\n• Chống bỏng nước: 100%\n• Khả năng chược xước: Cao\n• Thiết kế: Không viền đen\n• Tương thích: Phổ biến iOS, Android\n• Bảo hành: 12 tháng",
+      "summary": "Screen Protector Clear 3D - Kính cường lực 9H công nghệ 3D - Giá $19.99",
+      "category": "DÁN_MÀN_HÌNH_ĐIỆN_THOẠI",
+      "price": 19.99,
+      "brand": "Tech21",
+      "promotion": 8,
+      "created_date": "2026-01-18T00:00:00"
+    },
+    {
+      "name": "Tempered Glass Premium",
+      "description": "Miếng dán kính ESR Premium độ cứng 9H, trong suốt, bảo vệ tốt, dễ lắp đặt.",
+      "detail": "• Độ cứng: 9H\n• Độ trong suốt: 99%\n• Tương thích: iPhone 15, 14, 13, Samsung S24\n• Lớp phủ: Oleophobic coating\n• Dễ lắp: Có khung căn chỉnh\n• Khả năng bảo vệ: Góc 2.5D\n• Bảo hành: 12 tháng",
+      "summary": "Tempered Glass Premium - Kính cường lực 9H trong suốt 99% - Giá $14.99",
+      "category": "DÁN_MÀN_HÌNH_ĐIỆN_THOẠI",
+      "price": 14.99,
+      "brand": "ESR",
+      "promotion": 6,
+      "created_date": "2026-02-20T00:00:00"
+    },
+    {
+      "name": "AirPods Pro 2nd Gen",
+      "description": "Tai nghe không dây Apple AirPods Pro thế hệ thứ 2, công nghệ chống ồn chủ động, âm thanh spatial audio 3D.",
+      "detail": "• Công nghệ chống ồn: Active Noise Cancellation (ANC)\n• Chế độ trong suốt: Adaptive Audio\n• Âm thanh: Spatial Audio với dynamic head tracking\n• Pin: Lên tới 6 giờ (chế độ ANC), 30 giờ với hộp sạc\n• Kết nối: Bluetooth 5.3, Apple H2 chip\n• Tính năng: Cảm biến chạm, phát hiện tai\n• Bảo hành: 12 tháng",
+      "summary": "AirPods Pro 2nd Gen - Tai nghe không dây, chống ồn, spatial audio - Giá $299.99",
+      "category": "PHỤ_KIỆN_APPLE",
+      "price": 299.99,
+      "brand": "Apple",
+      "promotion": 10,
+      "created_date": "2026-03-15T00:00:00"
+    },
+    {
+      "name": "AirTag",
+      "description": "Thiết bị định vị Apple AirTag, theo dõi vị trí túi, chìa khóa, động vật cưng dễ dàng.",
+      "detail": "• Công nghệ: Bluetooth LE\n• Phạm vi: Lên tới 120m (không chướng ngại vật)\n• Pin: CR2032 (thay thế dễ)\n• Tính năng: Chế độ Mất Tìm Kiếm, âm thanh cảnh báo\n• Tương thích: iPhone 11 trở lên\n• Chống nước: IPX7\n• Bảo hành: 12 tháng",
+      "summary": "AirTag - Thiết bị định vị thông minh, phạm vi 120m, pin 1 năm - Giá $29.99",
+      "category": "PHỤ_KIỆN_APPLE",
+      "price": 29.99,
+      "brand": "Apple",
+      "promotion": 5,
+      "created_date": "2026-02-15T00:00:00"
+    },
+    {
+      "name": "Magic Mouse 2",
+      "description": "Chuột Magic Mouse 2 không dây của Apple, bề mặt touch, pin sạc lâu dài.",
+      "detail": "• Kiểu: Wireless (Bluetooth)\n• Bề mặt: Multi-touch\n• Pin: Sạc USB-C, thời lượng 1 tháng\n• Tìm kiếm: Sạc 2 phút = dùng 9 ngày\n• Tương thích: Mac, iPad\n• Trọng lượng: Nhẹ, cầm thoải mái\n• Bảo hành: 12 tháng",
+      "summary": "Magic Mouse 2 - Chuột không dây Apple, multi-touch, pin 1 tháng - Giá $99.99",
+      "category": "PHỤ_KIỆN_APPLE",
+      "price": 99.99,
+      "brand": "Apple",
+      "promotion": 8,
+      "created_date": "2026-03-19T00:00:00"
+    },
+    {
+      "name": "Smart Keyboard Folio",
+      "description": "Bàn phím thông minh Apple Smart Keyboard Folio cho iPad, bảo vệ và tích hợp bàn phím.",
+      "detail": "• Tương thích: iPad Pro 11-inch, 12.9-inch\n• Loại kết nối: Smart Connector (không cần pin)\n• Phím: Cơ học, hành trình thoải mái\n• Bảo vệ: Bao da tích hợp\n• Trọng lượng: Gọn nhẹ\n• Ngôn ngữ: Tiếng Việt sẵn sàng\n• Bảo hành: 12 tháng",
+      "summary": "Smart Keyboard Folio - Bàn phím thông minh cho iPad, bảo vệ 2 chiều - Giá $179.99",
+      "category": "PHỤ_KIỆN_APPLE",
+      "price": 179.99,
+      "brand": "Apple",
+      "promotion": 12,
+      "created_date": "2026-03-26T00:00:00"
+    },
+    {
+      "name": "PowerCore 26800mAh",
+      "description": "Pin sạc dự phòng Anker 26800mAh, sạc nhanh 3 thiết bị cùng lúc, dung lượng lớn.",
+      "detail": "• Dung lượng: 26800mAh (real capacity)\n• Cổng: 2x USB-A, 1x USB-C input\n• Công suất: 5V/3A per port\n• Tương thích: Điện thoại, tablet, camera\n• Sạc nhanh: Hỗ trợ iPhone Fast Charging\n• Trọng lượng: 520g\n• Bảo hành: 18 tháng",
+      "summary": "PowerCore 26800mAh - Pin dự phòng 26800mAh, 2 cổng USB-A, sạc 3 thiết bị - Giá $49.99",
+      "category": "PIN_DỰ_PHÒNG",
+      "price": 49.99,
+      "brand": "Anker",
+      "promotion": 15,
+      "created_date": "2026-02-09T00:00:00"
+    },
+    {
+      "name": "Mi Power Bank 3 Pro 20000mAh",
+      "description": "Pin sạc Xiaomi 20000mAh, sạc nhanh USB-C 18W, thiết kế nhỏ gọn, pin lâu bền.",
+      "detail": "• Dung lượng: 20000mAh\n• Cổng: 2x USB-A, 1x USB-C (input/output)\n• Công suất: USB-C 18W sạc nhanh\n• Tương thích: iPhone, Android, Tablet\n• Trọng lượng: 278g\n• LED hiển thị: 4 cấp độ pin\n• Bảo hành: 12 tháng",
+      "summary": "Mi Power Bank 3 Pro 20000mAh - Pin 20000mAh, sạc nhanh 18W, đủ pin cả ngày - Giá $39.99",
+      "category": "PIN_DỰ_PHÒNG",
+      "price": 39.99,
+      "brand": "Xiaomi",
+      "promotion": 10,
+      "created_date": "2026-01-08T00:00:00"
+    },
+    {
+      "name": "25000mAh Fast Charging",
+      "description": "Pin dự phòng Samsung 25000mAh với công nghệ sạc nhanh super fast, pin bền bỉ.",
+      "detail": "• Dung lượng: 25000mAh (typ)\n• Sạc nhanh: Super Fast Charging 25W\n• Cổng: USB-C in/out, 2x USB\n• Tương thích: Galaxy series, điện thoại khác\n• Chế độ sạc ngược: Có (Wireless PowerShare)\n• Trọng lượng: 544g\n• Bảo hành: 12 tháng",
+      "summary": "25000mAh Fast Charging - Pin Samsung 25000mAh, sạc nhanh 25W, wireless - Giá $59.99",
+      "category": "PIN_DỰ_PHÒNG",
+      "price": 59.99,
+      "brand": "Samsung",
+      "promotion": 18,
+      "created_date": "2026-02-09T00:00:00"
+    },
+    {
+      "name": "Sim 4G Viettel MAX15",
+      "description": "Sim 4G Viettel MAX15 tốc độ cao, gói cước 15k/tháng, miễn phí 4G 90 ngày đầu.",
+      "detail": "• Nhà mạng: Viettel\n• Công nghệ: 4G LTE\n• Gói cước: MAX15 - 15,000 đồng/tháng\n• Data: 8GB 4G, không giới hạn 3G\n• Cuộc gọi: Gọi trọn gói\n• Ưu đãi: Miễn phí 4G 90 ngày đầu\n• Bảng giá: Hỗ trợ all-in-one",
+      "summary": "Sim 4G Viettel MAX15 - Gói 15k/tháng, 8GB 4G, miễn phí 90 ngày - Giá $2.99",
+      "category": "SIM_5G__SIM_4G__SIM_3G",
+      "price": 2.99,
+      "brand": "Viettel",
+      "promotion": 0,
+      "created_date": "2026-03-23T00:00:00"
+    },
+    {
+      "name": "Sim 5G Mobifone MAX10",
+      "description": "Sim 5G Mobifone MAX10, tốc độ 5G ultra-fast, gói cước phổ biến 10,000 đồng/tháng.",
+      "detail": "• Nhà mạng: Mobifone\n• Công nghệ: 5G/4G LTE\n• Gói cước: MAX10 - 10,000 đồng/tháng\n• Data: 5GB 5G, 20GB 4G\n• Tốc độ 5G: Lên tới 1Gbps\n• Miễn phí: 30 ngày gói cước\n• Bảng giá: Hỗ trợ all-in-one",
+      "summary": "Sim 5G Mobifone MAX10 - Gói 10k/tháng, 5G tốc độ cao, 20GB - Giá $2.49",
+      "category": "SIM_5G__SIM_4G__SIM_3G",
+      "price": 2.49,
+      "brand": "Mobifone",
+      "promotion": 5,
+      "created_date": "2026-02-02T00:00:00"
+    },
+    {
+      "name": "Sim 5G Vinaphone 4G60",
+      "description": "Sim 5G Vinaphone 4G60, tốc độ 5G nhanh, gói cước 60,000 đồng, lợi ích cao.",
+      "detail": "• Nhà mạng: Vinaphone\n• Công nghệ: 5G/4G LTE\n• Gói cước: 4G60 - 60,000 đồng/tháng\n• Data: 30GB 5G, 30GB 4G, miễn phí data\n• Tốc độ: 5G 1Gbps+, 4G 150Mbps\n• Ngoại quốc: Roaming 150 nước\n• Bảng giá: Hỗ trợ businesshàng tháng",
+      "summary": "Sim 5G Vinaphone 4G60 - Gói 60k/tháng, 60GB data hàng tháng - Giá $5.99",
+      "category": "SIM_5G__SIM_4G__SIM_3G",
+      "price": 5.99,
+      "brand": "Vinaphone",
+      "promotion": 8,
+      "created_date": "2026-01-25T00:00:00"
+    },
+    {
+      "name": "Ultra microSD 256GB",
+      "description": "Thẻ nhớ microSD SanDisk Ultra 256GB, tốc độ đọc 150MB/s, tương thích điện thoại, camera.",
+      "detail": "• Dung lượng: 256GB\n• Tốc độ đọc: 150MB/s\n• Tốc độ ghi: 90MB/s\n• Chuẩn: microSD UHS-I\n• Chống chịu: Nước, nhiệt, chống từ\n• Bảo hành: Vĩnh viễn\n• Tương thích: Điện thoại Android, camera, drone",
+      "summary": "Ultra microSD 256GB - Thẻ nhớ 256GB, tốc độ 150MB/s, chống chịu - Giá $34.99",
+      "category": "THẺ_NHỚ,_USB",
+      "price": 34.99,
+      "brand": "SanDisk",
+      "promotion": 12,
+      "created_date": "2026-03-10T00:00:00"
+    },
+    {
+      "name": "DataTraveler USB 3.0 64GB",
+      "description": "USB 3.0 Kingston DataTraveler 64GB, tốc độ truyền nhanh, thiết kế nhỏ gọn.",
+      "detail": "• Dung lượng: 64GB\n• Chuẩn: USB 3.0\n• Tốc độ đọc: 110MB/s\n• Tốc độ ghi: 70MB/s\n• Kết nối: USB 3.0 / 2.0 compatible\n• Thiết kế: Cực nhỏ gọn 46 x 21 x 13 mm\n• Bảo hành: 5 năm",
+      "summary": "DataTraveler USB 3.0 64GB - USB 64GB tốc độ 110MB/s, cực nhỏ - Giá $15.99",
+      "category": "THẺ_NHỚ,_USB",
+      "price": 15.99,
+      "brand": "Kingston",
+      "promotion": 8,
+      "created_date": "2026-03-12T00:00:00"
+    },
+    {
+      "name": "microSD Card Pro 128GB",
+      "description": "Thẻ nhớ Samsung Pro Plus 128GB, tốc độ 160MB/s, hỗ trợ 4K video, bền bỉ.",
+      "detail": "• Dung lượng: 128GB\n• Tốc độ đọc: 160MB/s\n• Tốc độ ghi: 120MB/s\n• Video: Hỗ trợ 4K UHD\n• Độ bền: -13°C đến 85°C\n• Chống chịu: Nước, chống từ trường, chống tác động\n• Bảo hành: 10 năm",
+      "summary": "microSD Card Pro 128GB - Thẻ nhớ 128GB, tốc độ 160MB/s, hỗ trợ 4K - Giá $24.99",
+      "category": "THẺ_NHỚ,_USB",
+      "price": 24.99,
+      "brand": "Samsung",
+      "promotion": 10,
+      "created_date": "2026-01-26T00:00:00"
+    },
+    {
+      "name": "Rugged Armor Case",
+      "description": "Ốp lưng Spigen Rugged Armor, bảo vệ toàn diện, chống sốc, thiết kế mỏng nhẹ.",
+      "detail": "• Chất liệu: TPU + PC hybrid\n• Bảo vệ: Chống sốc lên tới 10ft\n• Thiết kế: Mỏng nhẹ, dễ cất\n• Tương thích: iPhone 15, 14, 13, Samsung S24\n• Cảm ứng: Không ảnh hưởng\n• Khí thải: Thoát khí qua thiết kế\n• Bảo hành: 12 tháng",
+      "summary": "Rugged Armor Case - Ốp lưng chống sốc 10ft, mỏng nhẹ, hybrid TPU+PC - Giá $18.99",
+      "category": "ỐP_LƯNG_ĐIỆN_THOẠI__BAO_DA",
+      "price": 18.99,
+      "brand": "Spigen",
+      "promotion": 10,
+      "created_date": "2026-02-18T00:00:00"
+    },
+    {
+      "name": "Defender Series Case",
+      "description": "Ốp lưng OtterBox Defender, bảo vệ cấp quân đội, chống sốc tối đa, bao da chắc chắn.",
+      "detail": "• Chất liệu: Polycarbonate + Synthetic rubber\n• Bảo vệ: Cấp quân đội MIL-STD-810G\n• Chống sốc: Lên tới 15ft\n• Bao da: Góc bảo vệ toàn diện\n• Tương thích: iPhone 15 Pro Max, Galaxy S24 Ultra\n• Khiếc: Cắt Precisions để dễ sử dụng\n• Bảo hành: 2 năm",
+      "summary": "Defender Series Case - Ốp lưng cấp quân đội, chống sốc 15ft, bao da chắc - Giá $49.99",
+      "category": "ỐP_LƯNG_ĐIỆN_THOẠI__BAO_DA",
+      "price": 49.99,
+      "brand": "OtterBox",
+      "promotion": 15,
+      "created_date": "2026-03-16T00:00:00"
+    },
+    {
+      "name": "Silicone Case",
+      "description": "Ốp lưng Silicone chính hãng Apple, mềm mại, bảo vệ tốt, nhiều màu sắc.",
+      "detail": "• Chất liệu: Silicone nguyên chất\n• Thiết kế: Vừa vặn hoàn hảo\n• Màu sắc: 12+ tùy chọn\n• Tương thích: iPhone 15, 14, 13 series\n• Bảo vệ: Chống bụi, chống trầy xước\n• Mềm mại: Cảm giác thoải mái khi cầm\n• Bảo hành: 12 tháng",
+      "summary": "Silicone Case - Ốp lưng silicone Apple, mềm mại, 12+ màu sắc - Giá $39.99",
+      "category": "ỐP_LƯNG_ĐIỆN_THOẠI__BAO_DA",
+      "price": 39.99,
+      "brand": "Apple",
+      "promotion": 8,
+      "created_date": "2026-03-05T00:00:00"
+    }
+  ],
+  "product_images": [
+    {
+      "product_id": 15,
+      "image_url": "https://cdn.example.com/accessories/samsung/25000mah-fast-charging-1.jpg"
+    },
+    {
+      "product_id": 15,
+      "image_url": "https://cdn.example.com/accessories/samsung/25000mah-fast-charging-2.jpg"
+    },
+    {
+      "product_id": 15,
+      "image_url": "https://cdn.example.com/accessories/samsung/25000mah-fast-charging-3.jpg"
+    },
+    {
+      "product_id": 16,
+      "image_url": "https://cdn.example.com/accessories/viettel/sim-4g-viettel-max15-1.jpg"
+    },
+    {
+      "product_id": 16,
+      "image_url": "https://cdn.example.com/accessories/viettel/sim-4g-viettel-max15-2.jpg"
+    },
+    {
+      "product_id": 16,
+      "image_url": "https://cdn.example.com/accessories/viettel/sim-4g-viettel-max15-3.jpg"
+    },
+    {
+      "product_id": 17,
+      "image_url": "https://cdn.example.com/accessories/mobifone/sim-5g-mobifone-max10-1.jpg"
+    },
+    {
+      "product_id": 17,
+      "image_url": "https://cdn.example.com/accessories/mobifone/sim-5g-mobifone-max10-2.jpg"
+    },
+    {
+      "product_id": 17,
+      "image_url": "https://cdn.example.com/accessories/mobifone/sim-5g-mobifone-max10-3.jpg"
+    },
+    {
+      "product_id": 18,
+      "image_url": "https://cdn.example.com/accessories/vinaphone/sim-5g-vinaphone-4g60-1.jpg"
+    },
+    {
+      "product_id": 18,
+      "image_url": "https://cdn.example.com/accessories/vinaphone/sim-5g-vinaphone-4g60-2.jpg"
+    },
+    {
+      "product_id": 18,
+      "image_url": "https://cdn.example.com/accessories/vinaphone/sim-5g-vinaphone-4g60-3.jpg"
+    },
+    {
+      "product_id": 19,
+      "image_url": "https://cdn.example.com/accessories/sandisk/ultra-microsd-256gb-1.jpg"
+    },
+    {
+      "product_id": 19,
+      "image_url": "https://cdn.example.com/accessories/sandisk/ultra-microsd-256gb-2.jpg"
+    },
+    {
+      "product_id": 19,
+      "image_url": "https://cdn.example.com/accessories/sandisk/ultra-microsd-256gb-3.jpg"
+    },
+    {
+      "product_id": 20,
+      "image_url": "https://cdn.example.com/accessories/kingston/datatraveler-usb-3.0-64gb-1.jpg"
+    },
+    {
+      "product_id": 20,
+      "image_url": "https://cdn.example.com/accessories/kingston/datatraveler-usb-3.0-64gb-2.jpg"
+    },
+    {
+      "product_id": 20,
+      "image_url": "https://cdn.example.com/accessories/kingston/datatraveler-usb-3.0-64gb-3.jpg"
+    },
+    {
+      "product_id": 21,
+      "image_url": "https://cdn.example.com/accessories/samsung/microsd-card-pro-128gb-1.jpg"
+    },
+    {
+      "product_id": 21,
+      "image_url": "https://cdn.example.com/accessories/samsung/microsd-card-pro-128gb-2.jpg"
+    },
+    {
+      "product_id": 21,
+      "image_url": "https://cdn.example.com/accessories/samsung/microsd-card-pro-128gb-3.jpg"
+    },
+    {
+      "product_id": 22,
+      "image_url": "https://cdn.example.com/accessories/spigen/rugged-armor-case-1.jpg"
+    },
+    {
+      "product_id": 22,
+      "image_url": "https://cdn.example.com/accessories/spigen/rugged-armor-case-2.jpg"
+    },
+    {
+      "product_id": 22,
+      "image_url": "https://cdn.example.com/accessories/spigen/rugged-armor-case-3.jpg"
+    },
+    {
+      "product_id": 23,
+      "image_url": "https://cdn.example.com/accessories/otterbox/defender-series-case-1.jpg"
+    },
+    {
+      "product_id": 23,
+      "image_url": "https://cdn.example.com/accessories/otterbox/defender-series-case-2.jpg"
+    },
+    {
+      "product_id": 23,
+      "image_url": "https://cdn.example.com/accessories/otterbox/defender-series-case-3.jpg"
+    },
+    {
+      "product_id": 24,
+      "image_url": "https://cdn.example.com/accessories/apple/silicone-case-1.jpg"
+    },
+    {
+      "product_id": 24,
+      "image_url": "https://cdn.example.com/accessories/apple/silicone-case-2.jpg"
+    },
+    {
+      "product_id": 24,
+      "image_url": "https://cdn.example.com/accessories/apple/silicone-case-3.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "product_id": 15,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450298"
+    },
+    {
+      "product_id": 15,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450316"
+    },
+    {
+      "product_id": 15,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450318"
+    },
+    {
+      "product_id": 16,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450330"
+    },
+    {
+      "product_id": 16,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450332"
+    },
+    {
+      "product_id": 16,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450335"
+    },
+    {
+      "product_id": 17,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450342"
+    },
+    {
+      "product_id": 17,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450343"
+    },
+    {
+      "product_id": 17,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450345"
+    },
+    {
+      "product_id": 18,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450350"
+    },
+    {
+      "product_id": 18,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450352"
+    },
+    {
+      "product_id": 18,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450353"
+    },
+    {
+      "product_id": 19,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450359"
+    },
+    {
+      "product_id": 19,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450361"
+    },
+    {
+      "product_id": 19,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450363"
+    },
+    {
+      "product_id": 20,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450368"
+    },
+    {
+      "product_id": 20,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450370"
+    },
+    {
+      "product_id": 20,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450371"
+    },
+    {
+      "product_id": 21,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450377"
+    },
+    {
+      "product_id": 21,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450378"
+    },
+    {
+      "product_id": 21,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450379"
+    },
+    {
+      "product_id": 22,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450386"
+    },
+    {
+      "product_id": 22,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450387"
+    },
+    {
+      "product_id": 22,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450389"
+    },
+    {
+      "product_id": 23,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450648"
+    },
+    {
+      "product_id": 23,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450650"
+    },
+    {
+      "product_id": 23,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450652"
+    },
+    {
+      "product_id": 24,
+      "rating": 4,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450661"
+    },
+    {
+      "product_id": 24,
+      "rating": 5,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450662"
+    },
+    {
+      "product_id": 24,
+      "rating": 3,
+      "comment": "Sản phẩm chất lượng tốt, đúng với mô tả. Đóng gói cẩn thận. Giao hàng nhanh.",
+      "created_date": "2026-03-28T20:27:29.450665"
+    }
+  ]
+}

@@ -1,0 +1,1336 @@
+{
+  "metadata": {
+    "source": "https://cellphones.com.vn",
+    "generated_at": "2026-03-28 23:50:13",
+    "tables": {
+      "users": 20,
+      "products": 4,
+      "product_images": 14,
+      "addresses": 20,
+      "carts": 20,
+      "cart_items": 39,
+      "orders": 8,
+      "order_items": 16,
+      "reviews": 2,
+      "wishlists": 16
+    }
+  },
+  "tables": {
+    "users": [
+      {
+        "id": 1,
+        "username": "customer_0001",
+        "email": "customer_0001@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User1",
+        "last_name": "Demo",
+        "phone": "0900000001",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 2,
+        "username": "customer_0002",
+        "email": "customer_0002@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User2",
+        "last_name": "Demo",
+        "phone": "0900000002",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 3,
+        "username": "customer_0003",
+        "email": "customer_0003@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User3",
+        "last_name": "Demo",
+        "phone": "0900000003",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 4,
+        "username": "customer_0004",
+        "email": "customer_0004@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User4",
+        "last_name": "Demo",
+        "phone": "0900000004",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 5,
+        "username": "customer_0005",
+        "email": "customer_0005@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User5",
+        "last_name": "Demo",
+        "phone": "0900000005",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 6,
+        "username": "customer_0006",
+        "email": "customer_0006@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User6",
+        "last_name": "Demo",
+        "phone": "0900000006",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 7,
+        "username": "customer_0007",
+        "email": "customer_0007@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User7",
+        "last_name": "Demo",
+        "phone": "0900000007",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 8,
+        "username": "customer_0008",
+        "email": "customer_0008@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User8",
+        "last_name": "Demo",
+        "phone": "0900000008",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 9,
+        "username": "customer_0009",
+        "email": "customer_0009@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User9",
+        "last_name": "Demo",
+        "phone": "0900000009",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 10,
+        "username": "customer_0010",
+        "email": "customer_0010@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User10",
+        "last_name": "Demo",
+        "phone": "0900000010",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 11,
+        "username": "customer_0011",
+        "email": "customer_0011@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User11",
+        "last_name": "Demo",
+        "phone": "0900000011",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 12,
+        "username": "customer_0012",
+        "email": "customer_0012@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User12",
+        "last_name": "Demo",
+        "phone": "0900000012",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 13,
+        "username": "customer_0013",
+        "email": "customer_0013@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User13",
+        "last_name": "Demo",
+        "phone": "0900000013",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 14,
+        "username": "customer_0014",
+        "email": "customer_0014@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User14",
+        "last_name": "Demo",
+        "phone": "0900000014",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 15,
+        "username": "customer_0015",
+        "email": "customer_0015@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User15",
+        "last_name": "Demo",
+        "phone": "0900000015",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 16,
+        "username": "customer_0016",
+        "email": "customer_0016@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User16",
+        "last_name": "Demo",
+        "phone": "0900000016",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 17,
+        "username": "customer_0017",
+        "email": "customer_0017@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User17",
+        "last_name": "Demo",
+        "phone": "0900000017",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 18,
+        "username": "customer_0018",
+        "email": "customer_0018@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User18",
+        "last_name": "Demo",
+        "phone": "0900000018",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 19,
+        "username": "customer_0019",
+        "email": "customer_0019@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User19",
+        "last_name": "Demo",
+        "phone": "0900000019",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 20,
+        "username": "customer_0020",
+        "email": "customer_0020@example.com",
+        "password": "$2b$12$abcdefghijklmnopqrstuv1234567890abcdefghi",
+        "first_name": "User20",
+        "last_name": "Demo",
+        "phone": "0900000020",
+        "avt_url": "",
+        "role": "CUSTOMER",
+        "status": "ACTIVE",
+        "verified": 1,
+        "last_login": "2026-03-28 23:50:13",
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Apple Watch Ultra 2 2024 49mm 4G Viền Titan Dây Cao Su - Cũ Xước Cấn",
+        "description": "Mua Apple Watch Ultra 2 2024 49mm Viền Titan Dây Cao Su cũ giá rẻ - Nguồn gốc rõ ràng, bảo hành 6-12 tháng, đổi mới 30 ngày, luôn xuất bán đầy đủ VAT.",
+        "detail": "- Công nghệ màn hình: Retina LTPO2 OLEDĐộ sáng 3000 nit\n- Kích thước màn hình: 1185 mm\n- Đường kính mặt: 49 mm\n- Kích thước cổ tay phù hợp: 13 – 20 cm\n- Nghe,gọi: Nghe gọi qua eSim\n- Tiện ích sức khoẻ: Chế độ luyện tập, Theo dõi giấc ngủ, Đo nhịp tim, Đo lượng oxy trong máu, Đếm bước chân, Tính calo tiêu thụ, Tính quãng đường chạy, Đo mức độ stress, Cảm biến nhiệt độ, Phát hiện té ngã, Cảnh báo nhịp tim bất thường, Đo điện tâm đồ, Đo VO2 max (Đo lượng tiêu thụ oxy tối đa), Theo dõi chu kỳ\n- Tương thích: iOS 18 trở lên\n- Thời lượng pin: Lên đến 36 giờ khi sử dụng bình thườngLên đến 72 giờ ở Chế Độ Nguồn Điện Thấp\n- Hãng sản xuất: Apple Chính hãng",
+        "summary": "Mua Apple Watch Ultra 2 2024 49mm Viền Titan Dây Cao Su cũ giá rẻ - Nguồn gốc rõ ràng, bảo hành 6-12 tháng, đổi mới 30 ngày, luôn xuất bán đầy đủ VAT.",
+        "category": "Khác",
+        "price": 13690000,
+        "brand": "Apple Chính hãng",
+        "promotion": 2,
+        "quantity": 57,
+        "view": 0,
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 2,
+        "name": "Bàn di chuột Asus Rog Strix Edge",
+        "description": "Mua Bàn di chuột Asus Rog Strix Edge chính hãng - Giá rẻ, đảm bảo chất lượng, độ bền cao, hỗ trợ giao hàng tận nơi toàn quốc.",
+        "detail": "- Hãng sản xuất: ASUS\n- Chất liệu: VảiCao su",
+        "summary": "Mua Bàn di chuột Asus Rog Strix Edge chính hãng - Giá rẻ, đảm bảo chất lượng, độ bền cao, hỗ trợ giao hàng tận nơi toàn quốc.",
+        "category": "Phụ kiện",
+        "price": 350000,
+        "brand": "ASUS",
+        "promotion": 2,
+        "quantity": 177,
+        "view": 0,
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 3,
+        "name": "Bàn phím cơ có dây E-Dra EK316 đen",
+        "description": "Mua Bàn phím cơ có dây E-Dra EK316 đen chính hãng - Giá rẻ, đảm bảo chất lượng, độ bền cao, hỗ trợ giao hàng tận nơi toàn quốc.",
+        "detail": "- Loại bàn phím: Full-size\n- Số phím: 104 phím\n- Tương thích: Windows\n- Kết nối: Dây USB-A\n- Khoảng cách kết nối (Độ dài dây): 1.5 mét\n- Đèn LED: LED Rainbow\n- Hãng sản xuất: E-dra",
+        "summary": "Mua Bàn phím cơ có dây E-Dra EK316 đen chính hãng - Giá rẻ, đảm bảo chất lượng, độ bền cao, hỗ trợ giao hàng tận nơi toàn quốc.",
+        "category": "Phụ kiện",
+        "price": 590000,
+        "brand": "E-dra",
+        "promotion": 2,
+        "quantity": 77,
+        "view": 0,
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 4,
+        "name": "Bàn phím cơ có dây Rapoo V501-87 đen xám cam",
+        "description": "Mua ngay Bàn phím cơ có dây Rapoo V501-87 đen xám cam chính hãng, giá ưu đãi, bảo hành chính hãng, miễn phí giao hàng tận nơi.",
+        "detail": "- Loại bàn phím: Tenkeylesss 80%\n- Số phím: 87 Phím\n- Phím đặc biệt: Phím MultimediaKnob xoay\n- Tương thích: Windows 10/11\n- Kết nối: Kết nối có dây USB\n- Đèn LED: LED RGB, 20 chế độ khác nhau\n- Hãng sản xuất: Rapoo",
+        "summary": "Mua ngay Bàn phím cơ có dây Rapoo V501-87 đen xám cam chính hãng, giá ưu đãi, bảo hành chính hãng, miễn phí giao hàng tận nơi.",
+        "category": "Phụ kiện",
+        "price": 549000,
+        "brand": "Rapoo",
+        "promotion": 80,
+        "quantity": 94,
+        "view": 0,
+        "created_at": "2026-03-28 23:50:13",
+        "updated_at": "2026-03-28 23:50:13"
+      }
+    ],
+    "product_images": [
+      {
+        "id": 1,
+        "product_id": 1,
+        "image_url": "https://cdn2.cellphones.com.vn/media/catalog/product/g/r/group_604_2__2_3_1.png"
+      },
+      {
+        "id": 2,
+        "product_id": 1,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/c/p/cps-25-03_33_.png"
+      },
+      {
+        "id": 3,
+        "product_id": 1,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/g/r/group_604_2__2_3_1.png"
+      },
+      {
+        "id": 4,
+        "product_id": 2,
+        "image_url": "https://cdn2.cellphones.com.vn/media/catalog/product/b/a/ban-di-chuot-asus-rog-strix-edge_1_.png"
+      },
+      {
+        "id": 5,
+        "product_id": 2,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-di-chuot-asus-rog-strix-edge_2__1.png"
+      },
+      {
+        "id": 6,
+        "product_id": 2,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-di-chuot-asus-rog-strix-edge_1_.png"
+      },
+      {
+        "id": 7,
+        "product_id": 3,
+        "image_url": "https://cdn2.cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-e-dra-ek316-den_1_.png"
+      },
+      {
+        "id": 8,
+        "product_id": 3,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-e-dra-ek316-den_2__1.png"
+      },
+      {
+        "id": 9,
+        "product_id": 3,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-e-dra-ek316-den_2__2.png"
+      },
+      {
+        "id": 10,
+        "product_id": 3,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-e-dra-ek316-den_2__3.png"
+      },
+      {
+        "id": 11,
+        "product_id": 3,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-e-dra-ek316-den_1_.png"
+      },
+      {
+        "id": 12,
+        "product_id": 4,
+        "image_url": "https://cdn2.cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-rapoo-v501-87-den-xam-cam_1_.png"
+      },
+      {
+        "id": 13,
+        "product_id": 4,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-rapoo-v501-87-den-xam-cam_2__1.png"
+      },
+      {
+        "id": 14,
+        "product_id": 4,
+        "image_url": "https://cellphones.com.vn/media/catalog/product/b/a/ban-phim-co-co-day-rapoo-v501-87-den-xam-cam_1_.png"
+      }
+    ],
+    "addresses": [
+      {
+        "id": 1,
+        "user_id": 1,
+        "recipient_name": "User1 Demo",
+        "phone": "0900000001",
+        "province": "Hà Nội",
+        "district": "Quận 2",
+        "ward": "Phường 2",
+        "street": "101 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 2,
+        "user_id": 2,
+        "recipient_name": "User2 Demo",
+        "phone": "0900000002",
+        "province": "TP. Hồ Chí Minh",
+        "district": "Quận 3",
+        "ward": "Phường 3",
+        "street": "102 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 3,
+        "user_id": 3,
+        "recipient_name": "User3 Demo",
+        "phone": "0900000003",
+        "province": "Đà Nẵng",
+        "district": "Quận 4",
+        "ward": "Phường 4",
+        "street": "103 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 4,
+        "user_id": 4,
+        "recipient_name": "User4 Demo",
+        "phone": "0900000004",
+        "province": "Cần Thơ",
+        "district": "Quận 5",
+        "ward": "Phường 5",
+        "street": "104 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 5,
+        "user_id": 5,
+        "recipient_name": "User5 Demo",
+        "phone": "0900000005",
+        "province": "Hải Phòng",
+        "district": "Quận 6",
+        "ward": "Phường 6",
+        "street": "105 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 6,
+        "user_id": 6,
+        "recipient_name": "User6 Demo",
+        "phone": "0900000006",
+        "province": "Hà Nội",
+        "district": "Quận 7",
+        "ward": "Phường 7",
+        "street": "106 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 7,
+        "user_id": 7,
+        "recipient_name": "User7 Demo",
+        "phone": "0900000007",
+        "province": "TP. Hồ Chí Minh",
+        "district": "Quận 8",
+        "ward": "Phường 8",
+        "street": "107 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 8,
+        "user_id": 8,
+        "recipient_name": "User8 Demo",
+        "phone": "0900000008",
+        "province": "Đà Nẵng",
+        "district": "Quận 9",
+        "ward": "Phường 9",
+        "street": "108 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 9,
+        "user_id": 9,
+        "recipient_name": "User9 Demo",
+        "phone": "0900000009",
+        "province": "Cần Thơ",
+        "district": "Quận 10",
+        "ward": "Phường 10",
+        "street": "109 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 10,
+        "user_id": 10,
+        "recipient_name": "User10 Demo",
+        "phone": "0900000010",
+        "province": "Hải Phòng",
+        "district": "Quận 11",
+        "ward": "Phường 11",
+        "street": "110 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 11,
+        "user_id": 11,
+        "recipient_name": "User11 Demo",
+        "phone": "0900000011",
+        "province": "Hà Nội",
+        "district": "Quận 12",
+        "ward": "Phường 12",
+        "street": "111 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 12,
+        "user_id": 12,
+        "recipient_name": "User12 Demo",
+        "phone": "0900000012",
+        "province": "TP. Hồ Chí Minh",
+        "district": "Quận 1",
+        "ward": "Phường 13",
+        "street": "112 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 13,
+        "user_id": 13,
+        "recipient_name": "User13 Demo",
+        "phone": "0900000013",
+        "province": "Đà Nẵng",
+        "district": "Quận 2",
+        "ward": "Phường 14",
+        "street": "113 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 14,
+        "user_id": 14,
+        "recipient_name": "User14 Demo",
+        "phone": "0900000014",
+        "province": "Cần Thơ",
+        "district": "Quận 3",
+        "ward": "Phường 15",
+        "street": "114 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 15,
+        "user_id": 15,
+        "recipient_name": "User15 Demo",
+        "phone": "0900000015",
+        "province": "Hải Phòng",
+        "district": "Quận 4",
+        "ward": "Phường 16",
+        "street": "115 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 16,
+        "user_id": 16,
+        "recipient_name": "User16 Demo",
+        "phone": "0900000016",
+        "province": "Hà Nội",
+        "district": "Quận 5",
+        "ward": "Phường 17",
+        "street": "116 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 17,
+        "user_id": 17,
+        "recipient_name": "User17 Demo",
+        "phone": "0900000017",
+        "province": "TP. Hồ Chí Minh",
+        "district": "Quận 6",
+        "ward": "Phường 18",
+        "street": "117 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 18,
+        "user_id": 18,
+        "recipient_name": "User18 Demo",
+        "phone": "0900000018",
+        "province": "Đà Nẵng",
+        "district": "Quận 7",
+        "ward": "Phường 19",
+        "street": "118 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 19,
+        "user_id": 19,
+        "recipient_name": "User19 Demo",
+        "phone": "0900000019",
+        "province": "Cần Thơ",
+        "district": "Quận 8",
+        "ward": "Phường 20",
+        "street": "119 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 20,
+        "user_id": 20,
+        "recipient_name": "User20 Demo",
+        "phone": "0900000020",
+        "province": "Hải Phòng",
+        "district": "Quận 9",
+        "ward": "Phường 1",
+        "street": "120 Đường Mẫu",
+        "detail": "Địa chỉ tạo tự động để seed dữ liệu quan hệ.",
+        "is_default": 1,
+        "created_at": "2026-03-28 23:50:13"
+      }
+    ],
+    "carts": [
+      {
+        "id": 1,
+        "user_id": 1
+      },
+      {
+        "id": 2,
+        "user_id": 2
+      },
+      {
+        "id": 3,
+        "user_id": 3
+      },
+      {
+        "id": 4,
+        "user_id": 4
+      },
+      {
+        "id": 5,
+        "user_id": 5
+      },
+      {
+        "id": 6,
+        "user_id": 6
+      },
+      {
+        "id": 7,
+        "user_id": 7
+      },
+      {
+        "id": 8,
+        "user_id": 8
+      },
+      {
+        "id": 9,
+        "user_id": 9
+      },
+      {
+        "id": 10,
+        "user_id": 10
+      },
+      {
+        "id": 11,
+        "user_id": 11
+      },
+      {
+        "id": 12,
+        "user_id": 12
+      },
+      {
+        "id": 13,
+        "user_id": 13
+      },
+      {
+        "id": 14,
+        "user_id": 14
+      },
+      {
+        "id": 15,
+        "user_id": 15
+      },
+      {
+        "id": 16,
+        "user_id": 16
+      },
+      {
+        "id": 17,
+        "user_id": 17
+      },
+      {
+        "id": 18,
+        "user_id": 18
+      },
+      {
+        "id": 19,
+        "user_id": 19
+      },
+      {
+        "id": 20,
+        "user_id": 20
+      }
+    ],
+    "cart_items": [
+      {
+        "id": 1,
+        "cart_id": 1,
+        "product_id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "cart_id": 1,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 3,
+        "cart_id": 1,
+        "product_id": 3,
+        "quantity": 2
+      },
+      {
+        "id": 4,
+        "cart_id": 2,
+        "product_id": 2,
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "cart_id": 2,
+        "product_id": 3,
+        "quantity": 2
+      },
+      {
+        "id": 6,
+        "cart_id": 2,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 7,
+        "cart_id": 3,
+        "product_id": 3,
+        "quantity": 1
+      },
+      {
+        "id": 8,
+        "cart_id": 3,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 9,
+        "cart_id": 3,
+        "product_id": 1,
+        "quantity": 2
+      },
+      {
+        "id": 10,
+        "cart_id": 4,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 11,
+        "cart_id": 4,
+        "product_id": 2,
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "cart_id": 5,
+        "product_id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 13,
+        "cart_id": 5,
+        "product_id": 3,
+        "quantity": 1
+      },
+      {
+        "id": 14,
+        "cart_id": 6,
+        "product_id": 2,
+        "quantity": 1
+      },
+      {
+        "id": 15,
+        "cart_id": 6,
+        "product_id": 3,
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "cart_id": 7,
+        "product_id": 1,
+        "quantity": 2
+      },
+      {
+        "id": 17,
+        "cart_id": 8,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 18,
+        "cart_id": 8,
+        "product_id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 19,
+        "cart_id": 8,
+        "product_id": 2,
+        "quantity": 2
+      },
+      {
+        "id": 20,
+        "cart_id": 9,
+        "product_id": 2,
+        "quantity": 1
+      },
+      {
+        "id": 21,
+        "cart_id": 9,
+        "product_id": 3,
+        "quantity": 2
+      },
+      {
+        "id": 22,
+        "cart_id": 10,
+        "product_id": 3,
+        "quantity": 2
+      },
+      {
+        "id": 23,
+        "cart_id": 11,
+        "product_id": 3,
+        "quantity": 2
+      },
+      {
+        "id": 24,
+        "cart_id": 11,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 25,
+        "cart_id": 11,
+        "product_id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 26,
+        "cart_id": 12,
+        "product_id": 2,
+        "quantity": 2
+      },
+      {
+        "id": 27,
+        "cart_id": 12,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 28,
+        "cart_id": 13,
+        "product_id": 2,
+        "quantity": 1
+      },
+      {
+        "id": 29,
+        "cart_id": 13,
+        "product_id": 4,
+        "quantity": 1
+      },
+      {
+        "id": 30,
+        "cart_id": 14,
+        "product_id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 31,
+        "cart_id": 15,
+        "product_id": 1,
+        "quantity": 2
+      },
+      {
+        "id": 32,
+        "cart_id": 16,
+        "product_id": 3,
+        "quantity": 1
+      },
+      {
+        "id": 33,
+        "cart_id": 16,
+        "product_id": 2,
+        "quantity": 2
+      },
+      {
+        "id": 34,
+        "cart_id": 16,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 35,
+        "cart_id": 17,
+        "product_id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 36,
+        "cart_id": 18,
+        "product_id": 2,
+        "quantity": 2
+      },
+      {
+        "id": 37,
+        "cart_id": 19,
+        "product_id": 4,
+        "quantity": 2
+      },
+      {
+        "id": 38,
+        "cart_id": 20,
+        "product_id": 3,
+        "quantity": 2
+      },
+      {
+        "id": 39,
+        "cart_id": 20,
+        "product_id": 4,
+        "quantity": 1
+      }
+    ],
+    "orders": [
+      {
+        "id": 1,
+        "user_id": 2,
+        "total_price": 1290000,
+        "status": "SHIPPED",
+        "recipient_name": "User2 Demo",
+        "phone": "0900000002",
+        "address": "102 Đường Mẫu, Quận 3, Đà Nẵng",
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 2,
+        "user_id": 4,
+        "total_price": 28560000,
+        "status": "SHIPPED",
+        "recipient_name": "User4 Demo",
+        "phone": "0900000004",
+        "address": "104 Đường Mẫu, Quận 5, Hải Phòng",
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 3,
+        "user_id": 5,
+        "total_price": 1180000,
+        "status": "PAID",
+        "recipient_name": "User5 Demo",
+        "phone": "0900000005",
+        "address": "105 Đường Mẫu, Quận 6, Hà Nội",
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 4,
+        "user_id": 8,
+        "total_price": 27380000,
+        "status": "SHIPPED",
+        "recipient_name": "User8 Demo",
+        "phone": "0900000008",
+        "address": "108 Đường Mẫu, Quận 9, Cần Thơ",
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 5,
+        "user_id": 10,
+        "total_price": 14239000,
+        "status": "PAID",
+        "recipient_name": "User10 Demo",
+        "phone": "0900000010",
+        "address": "110 Đường Mẫu, Quận 11, Hà Nội",
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 6,
+        "user_id": 15,
+        "total_price": 27929000,
+        "status": "SHIPPED",
+        "recipient_name": "User15 Demo",
+        "phone": "0900000015",
+        "address": "115 Đường Mẫu, Quận 4, Hà Nội",
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 7,
+        "user_id": 16,
+        "total_price": 2388000,
+        "status": "COMPLETED",
+        "recipient_name": "User16 Demo",
+        "phone": "0900000016",
+        "address": "116 Đường Mẫu, Quận 5, TP. Hồ Chí Minh",
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 8,
+        "user_id": 18,
+        "total_price": 14829000,
+        "status": "PAID",
+        "recipient_name": "User18 Demo",
+        "phone": "0900000018",
+        "address": "118 Đường Mẫu, Quận 7, Cần Thơ",
+        "created_at": "2026-03-28 23:50:13"
+      }
+    ],
+    "order_items": [
+      {
+        "id": 1,
+        "order_id": 1,
+        "product_id": 3,
+        "price": 590000,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "order_id": 1,
+        "product_id": 2,
+        "price": 350000,
+        "quantity": 2
+      },
+      {
+        "id": 3,
+        "order_id": 2,
+        "product_id": 3,
+        "price": 590000,
+        "quantity": 2
+      },
+      {
+        "id": 4,
+        "order_id": 2,
+        "product_id": 1,
+        "price": 13690000,
+        "quantity": 2
+      },
+      {
+        "id": 5,
+        "order_id": 3,
+        "product_id": 3,
+        "price": 590000,
+        "quantity": 2
+      },
+      {
+        "id": 6,
+        "order_id": 4,
+        "product_id": 1,
+        "price": 13690000,
+        "quantity": 2
+      },
+      {
+        "id": 7,
+        "order_id": 5,
+        "product_id": 1,
+        "price": 13690000,
+        "quantity": 1
+      },
+      {
+        "id": 8,
+        "order_id": 5,
+        "product_id": 4,
+        "price": 549000,
+        "quantity": 1
+      },
+      {
+        "id": 9,
+        "order_id": 6,
+        "product_id": 1,
+        "price": 13690000,
+        "quantity": 2
+      },
+      {
+        "id": 10,
+        "order_id": 6,
+        "product_id": 4,
+        "price": 549000,
+        "quantity": 1
+      },
+      {
+        "id": 11,
+        "order_id": 7,
+        "product_id": 2,
+        "price": 350000,
+        "quantity": 2
+      },
+      {
+        "id": 12,
+        "order_id": 7,
+        "product_id": 3,
+        "price": 590000,
+        "quantity": 1
+      },
+      {
+        "id": 13,
+        "order_id": 7,
+        "product_id": 4,
+        "price": 549000,
+        "quantity": 2
+      },
+      {
+        "id": 14,
+        "order_id": 8,
+        "product_id": 3,
+        "price": 590000,
+        "quantity": 1
+      },
+      {
+        "id": 15,
+        "order_id": 8,
+        "product_id": 1,
+        "price": 13690000,
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "order_id": 8,
+        "product_id": 4,
+        "price": 549000,
+        "quantity": 1
+      }
+    ],
+    "reviews": [
+      {
+        "id": 1,
+        "feedback": "Đánh giá seed tự động cho sản phẩm: Apple Watch Ultra 2 2024 49mm 4G Viền Titan Dây Cao Su - Cũ Xước Cấn",
+        "score": 5,
+        "user_id": 8,
+        "product_id": 1,
+        "created_at": "2026-03-28 23:50:13"
+      },
+      {
+        "id": 2,
+        "feedback": "Đánh giá seed tự động cho sản phẩm: Bàn di chuột Asus Rog Strix Edge",
+        "score": 4,
+        "user_id": 10,
+        "product_id": 2,
+        "created_at": "2026-03-28 23:50:13"
+      }
+    ],
+    "wishlists": [
+      {
+        "user_id": 2,
+        "product_id": 4
+      },
+      {
+        "user_id": 2,
+        "product_id": 3
+      },
+      {
+        "user_id": 4,
+        "product_id": 4
+      },
+      {
+        "user_id": 4,
+        "product_id": 2
+      },
+      {
+        "user_id": 7,
+        "product_id": 4
+      },
+      {
+        "user_id": 7,
+        "product_id": 1
+      },
+      {
+        "user_id": 8,
+        "product_id": 3
+      },
+      {
+        "user_id": 8,
+        "product_id": 2
+      },
+      {
+        "user_id": 10,
+        "product_id": 2
+      },
+      {
+        "user_id": 12,
+        "product_id": 3
+      },
+      {
+        "user_id": 12,
+        "product_id": 2
+      },
+      {
+        "user_id": 15,
+        "product_id": 4
+      },
+      {
+        "user_id": 15,
+        "product_id": 3
+      },
+      {
+        "user_id": 18,
+        "product_id": 2
+      },
+      {
+        "user_id": 18,
+        "product_id": 1
+      },
+      {
+        "user_id": 20,
+        "product_id": 4
+      }
+    ]
+  }
+}

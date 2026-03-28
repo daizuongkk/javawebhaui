@@ -1,0 +1,21 @@
+﻿id,user_id,recipient_name,phone,province,district,ward,street,detail,is_default,created_at
+1,1,User1 Demo,0900000001,Hà Nội,Quận 2,Phường 2,101 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+2,2,User2 Demo,0900000002,TP. Hồ Chí Minh,Quận 3,Phường 3,102 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+3,3,User3 Demo,0900000003,Đà Nẵng,Quận 4,Phường 4,103 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+4,4,User4 Demo,0900000004,Cần Thơ,Quận 5,Phường 5,104 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+5,5,User5 Demo,0900000005,Hải Phòng,Quận 6,Phường 6,105 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+6,6,User6 Demo,0900000006,Hà Nội,Quận 7,Phường 7,106 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+7,7,User7 Demo,0900000007,TP. Hồ Chí Minh,Quận 8,Phường 8,107 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+8,8,User8 Demo,0900000008,Đà Nẵng,Quận 9,Phường 9,108 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+9,9,User9 Demo,0900000009,Cần Thơ,Quận 10,Phường 10,109 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+10,10,User10 Demo,0900000010,Hải Phòng,Quận 11,Phường 11,110 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+11,11,User11 Demo,0900000011,Hà Nội,Quận 12,Phường 12,111 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+12,12,User12 Demo,0900000012,TP. Hồ Chí Minh,Quận 1,Phường 13,112 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+13,13,User13 Demo,0900000013,Đà Nẵng,Quận 2,Phường 14,113 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+14,14,User14 Demo,0900000014,Cần Thơ,Quận 3,Phường 15,114 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+15,15,User15 Demo,0900000015,Hải Phòng,Quận 4,Phường 16,115 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+16,16,User16 Demo,0900000016,Hà Nội,Quận 5,Phường 17,116 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+17,17,User17 Demo,0900000017,TP. Hồ Chí Minh,Quận 6,Phường 18,117 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+18,18,User18 Demo,0900000018,Đà Nẵng,Quận 7,Phường 19,118 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+19,19,User19 Demo,0900000019,Cần Thơ,Quận 8,Phường 20,119 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
+20,20,User20 Demo,0900000020,Hải Phòng,Quận 9,Phường 1,120 Đường Mẫu,Địa chỉ tạo tự động để seed dữ liệu quan hệ.,1,2026-03-28 22:45:27
